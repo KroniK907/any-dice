@@ -1,5 +1,11 @@
 import { Storage } from '@plasmohq/storage';
-import type { DiceFamily, DiceSet } from './interfaces';
+import type {
+    DiceFamily,
+    DiceSet,
+    DiceUserSettings,
+    DiceUserData,
+    DiceUserResponse
+} from './interfaces';
 import { isToday } from 'date-fns';
 
 log.enabled = process.env.PLASMO_PUBLIC_LOG_ENABLED;
@@ -37,20 +43,34 @@ function getDiceFamilies() {
 }
 
 async function initializeStorage() {
-    let lastUpdate = await storage.get('lastUpdatedDiceFamilies');
-    if(!lastUpdate || !isToday(lastUpdate)) {
-        let getFamilies = await getDiceFamilies();
-        await storage.set('allFamilySets', getFamilies);
+    let storageInitialized = await storage.get('storageInitialized');
+    if(storageInitialized === true) {
+        let lastUpdate = await storage.get('lastUpdatedDiceFamilies');
+        if(!isToday(lastUpdate)) {
+            storeDiceFamilies();
+        }
+    } else {
+        storeDiceFamilies();
 
-        let allFamilySets = await storage.get('allFamilySets');
-        storeDiceFamilies(allFamilySets);
+        await storage.set('selectedSet', 'none');
+
+        await storage.set('settings_volume', 1);
+        await storage.set('settings_vibration', true);
+        await storage.set('settings_particles', true);
+        await storage.set('settings_animationQual', 3);
+        await storage.set('settings_shadowQual', 3);
+
+        await storage.set('storageInitialized', true);
     }
 }
 
-async function storeDiceFamilies(allFamilySets) {
+async function storeDiceFamilies() {
+    let getFamilies = await getDiceFamilies();
+    await storage.set('allFamilySets', getFamilies);
+
     let diceFamilies = [];
 
-    for(let familySet of allFamilySets) {
+    for(let familySet of getFamilies) {
         let diceFamily: DiceFamily = {
             familyId: familySet.familyId,
             name: familySet.name,
@@ -83,18 +103,72 @@ async function storeDiceFamilies(allFamilySets) {
     await storage.set('lastUpdatedDiceFamilies', date.toISOString());
 }
 
-initializeStorage();
-
-chrome.declarativeNetRequest.updateDynamicRules({
-    removeRuleIds: [1],
-    addRules: [{
-        id: 1,
-        condition: {
-            urlFilter: "https://dice-service.dndbeyond.com/diceuserconfig/v1/get|"
-        },
-        action: {
-            type: "redirect",
-            redirect: { url: 'data:application/json,{ "id": 0, "success": true, "message": "", "data": { "id": "", "manifestUrl": "/bundles/battle-for-beyond/leila/manifest.json", "familyId": "023", "setId": "02302", "settings": { "volume": 1, "vibrationEnabled": true, "particlesEnabled": true, "animationQuality": 3, "shadowQuality": 3 } } }' }
+async function buildDiceUserConfig() {
+    let selectedSet = await storage.get('selectedSet');
+    if(selectedSet !== 'none' && selectedSet) {
+        let diceSet = await storage.get(selectedSet);
+        let settings: DiceUserSettings = {
+            volume: await storage.get('settings_volume'),
+            vibrationEnabled: await storage.get('settings_vibration'),
+            particlesEnabled: await storage.get('settings_particles'),
+            animationQuality: await storage.get('settings_animationQual'),
+            shadowQuality: await storage.get('settings_shadowQual')
         }
-    }]
+        let data: DiceUserData = {
+            id: "",
+            manifestUrl: diceSet.manifestUrl,
+            familyId: diceSet.familyId,
+            setId: diceSet.setId,
+            settings: settings
+        }
+        let response: DataUserResponse = {
+            id: "",
+            success: true,
+            message: "",
+            data: data
+        } 
+
+        let mime = 'data:application/json,'
+        let url = mime + JSON.stringify(response);
+
+        await storage.set('redirectUrl', url);
+    } else {
+        await storage.set('redirectUrl', null)
+    }
+}
+
+async function updateRedirect() {
+    let url = await storage.get('redirectUrl');
+
+    if(url) {
+        await chrome.declarativeNetRequest.updateDynamicRules({
+            removeRuleIds: [1],
+            addRules: [{
+                id: 1,
+                condition: {
+                    urlFilter: "https://dice-service.dndbeyond.com/diceuserconfig/v1/get|"
+                },
+                action: {
+                    type: "redirect",
+                    redirect: { url: url }
+                }
+            }]
+        });
+    } else {
+        await chrome.declarativeNetRequest.updateDynamicRules({
+            removeRuleIds: [1]
+        })
+    }
+}
+
+initializeStorage();
+buildDiceUserConfig();
+updateRedirect();
+
+storage.watch({
+    selectedSet: (c) => {
+        buildDiceUserConfig();
+        updateRedirect();
+        log('New Set Selected: ', c)
+    }
 });

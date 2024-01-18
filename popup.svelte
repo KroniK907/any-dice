@@ -1,13 +1,13 @@
 <script lang="ts">
-    export let count = 0;
-    let action: string = null;
-    function increment() {
-        count += 1;
-        action = "increment";
+    import { Storage } from '@plasmohq/storage';
+
+    const storage = new Storage({area: 'local'});
+
+    async function blackSet() {
+        await storage.set('selectedSet', 'diceSet-00101');
     }
-    function decrement() {
-        count -= 1;
-        action = "decrement";
+    async function glacialSet() {
+        await storage.set('selectedSet', 'diceSet-00701')
     }
 </script>
 
@@ -33,9 +33,7 @@
       Welcome to your <a href="https://www.plasmo.com" target="_blank">Plasmo</a> Extension!
     </h2>
     <div class="container">
-        <button on:click={decrement}>-</button>
-        <p>Current count: <b>{count}</b></p>
-        <button on:click={increment}>+</button>
+        <button on:click={blackSet}>Black Dice</button>
+        <button on:click={glacialSet}>Glacial Dice</button>
     </div>
-    {#if action}<p class="action text-center">{action}</p>{/if}
 </div>

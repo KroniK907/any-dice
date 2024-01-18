@@ -17,7 +17,33 @@ interface DiceSet {
     familyId: string;
 }
 
+interface DiceUserSettings {
+    volume: number;
+    vibrationEnabled: boolean;
+    particlesEnabled: boolean;
+    animationQuality: number;
+    shadowQuality: number;
+}
+
+interface DiceUserData {
+    id: string;
+    manifestUrl: string;
+    familyId: string;
+    setId: string; 
+    settings: DiceUserSettings;
+}
+
+interface DiceUserResponse {
+    id: string;
+    success: boolean;
+    message: string;
+    data: DiceUserData;
+}
+
 export type {
     DiceFamily,
-    DiceSet
+    DiceSet,
+    DiceUserSettings,
+    DiceUserData,
+    DiceUserResponse
 }
