@@ -1,1 +1,2178 @@
-{"id":0,"success":true,"message":"","data":[{"id":"001","familyId":"001","dateCreated":"2020-04-20T00:00:00","dateModified":"2022-06-15T16:36:48.1045647+00:00","name":"Basic Black","description":"Basic Black is the original dice set for D&D Beyond. Use this dice set for formal occasions, a night out on the town, or to impress someone with how understated and classy you are.","sets":{"definitionData":[{"id":"00101","dateCreated":"2020-04-20T00:00:00","dateModified":"2022-06-15T16:36:48.1045656+00:00","name":"Black","manifestUrl":"/bundles/basic/default.json","sku":"DCE-00101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/basic-black.jpg?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Basic Black: Black"},{"id":"00102","dateCreated":"2020-04-20T00:00:00","dateModified":"2022-06-15T16:36:48.1045659+00:00","name":"Contrast Black","manifestUrl":"/bundles/basic/default-contrast.json","sku":"DCE-00102","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/basic-black-contrast.jpg?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Basic Black: Contrast Black"}],"accessTypes":{"00101":1,"00102":1}},"isReleased":true,"isFeatured":false,"sku":"DCE-00100","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"002","familyId":"002","dateCreated":"2020-05-07T00:00:00","dateModified":"2022-06-15T16:36:48.3723602+00:00","name":"Old School","description":"This dice set has been used to kill mountains of monsters over the years. Legends say this set was originally used by Gary Gygax when he was crafting the original game. It has been given to you for being a subscriber and helping to test during the Digital Dice Alpha. Thank you.","sets":{"definitionData":[{"id":"00201","dateCreated":"2020-05-07T00:00:00","dateModified":"2022-06-15T16:36:48.3723613+00:00","name":"Old School","manifestUrl":"/bundles/oldSchool/manifest-v2.json","sku":"DCE-00201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/old-school.jpg?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Old School"}],"accessTypes":{"00201":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00200","rarity":1,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"003","familyId":"003","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169441+00:00","name":"Pigment Pack","description":"Add a punch of color to your attack rolls with the entire Pigment Pack or handpick a few of your favorite colors to grow your dice collection.","sets":{"definitionData":[{"id":"00301","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169449+00:00","name":"Brown","manifestUrl":"/bundles/plastic/00301-brown.json","sku":"DCE-00301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-brown.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Brown"},{"id":"00302","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169452+00:00","name":"Orange","manifestUrl":"/bundles/plastic/00302-orange.json","sku":"DCE-00302","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-orange.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Orange"},{"id":"00303","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169454+00:00","name":"Green","manifestUrl":"/bundles/plastic/00303-green.json","sku":"DCE-00303","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-green.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Green"},{"id":"00304","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169457+00:00","name":"Purple","manifestUrl":"/bundles/plastic/00304-purple.json","sku":"DCE-00304","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-purple.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Purple"},{"id":"00305","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.216946+00:00","name":"Red","manifestUrl":"/bundles/plastic/00305-red.json","sku":"DCE-00305","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-red.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Red"},{"id":"00306","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169462+00:00","name":"Yellow","manifestUrl":"/bundles/plastic/00306-yellow.json","sku":"DCE-00306","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-yellow.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Yellow"},{"id":"00307","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169465+00:00","name":"Blue","manifestUrl":"/bundles/plastic/00307-blue.json","sku":"DCE-00307","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-blue.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: Blue"},{"id":"00308","dateCreated":"2020-05-19T00:00:00","dateModified":"2022-06-15T16:36:48.2169467+00:00","name":"White","manifestUrl":"/bundles/plastic/00308-white.json","sku":"DCE-00308","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pigment-white.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Pigment Pack: White"}],"accessTypes":{"00301":4,"00302":4,"00303":4,"00304":4,"00305":4,"00306":4,"00307":4,"00308":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00300","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/pigment-pack","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/pigment-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>This pack includes Blue, Brown, Green, Orange, Purple, Red, White, and Yellow.</p><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply credit to the full pack if you choose to complete your collection in the future.</p>"},{"id":"004","familyId":"004","dateCreated":"2020-05-19T00:00:00","dateModified":"2023-05-22T15:25:08.8836819+00:00","name":"Mythic Dice Set","description":"Roll your destiny to battle the gods. Triumph over your enemies and mark your place among the stars with the Mythic Dice Set.","sets":{"definitionData":[{"id":"00401","dateCreated":"2020-05-19T00:00:00","dateModified":"2023-05-22T15:25:08.8836858+00:00","name":"Mythic Dice Set","manifestUrl":"/bundles/mythic/manifest-v3.json","sku":"DCE-00401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/mythic.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Mythic Dice Set"}],"accessTypes":{"00401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00400","rarity":2,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"005","familyId":"005","dateCreated":"2020-06-02T00:00:00","dateModified":"2023-05-22T15:25:19.8854024+00:00","name":"Archmage's Favor","description":"Obtained from the tower of a powerful magic user, these animated digital dice allow you to manipulate your fate. Just don't expect them to always roll in your favor.","sets":{"definitionData":[{"id":"00501","dateCreated":"2020-06-02T00:00:00","dateModified":"2023-05-22T15:25:19.8854036+00:00","name":"Archmage's Favor","manifestUrl":"/bundles/archmage/manifest.json","sku":"DCE-00501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/archmage.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Archmage's Favor"}],"accessTypes":{"00501":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00500","rarity":1,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"007","familyId":"007","dateCreated":"2020-06-15T00:00:00","dateModified":"2022-06-15T16:36:47.8219115+00:00","name":"Glacial Dice Set","description":"We sent a team of experts the world over to find the best ice from which to carve this dice set. After months of searching, they found a glacier that had been forming for thousands of years in the coldest part of the world. So cold that you needn't worry about them melting.","sets":{"definitionData":[{"id":"00701","dateCreated":"2020-06-15T00:00:00","dateModified":"2022-06-15T16:36:47.8219123+00:00","name":"Glacial Dice Set","manifestUrl":"/bundles/glacial/manifest-v2.json","sku":"DCE-00701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/glacial.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Glacial Dice Set"}],"accessTypes":{"00701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00700","rarity":1,"marketplaceUrl":null,"marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/glacial-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>Glacial Dice!</p>"},{"id":"008","familyId":"008","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916547+00:00","name":"Blacksmith's Dice Pack","description":"These dice were handcrafted by blacksmiths from the highest quality 64-bit metals so you can feel the weight of your rolls. Let your characters shine with one or more of these digital dice sets.","sets":{"definitionData":[{"id":"00801","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.791656+00:00","name":"Bronze","manifestUrl":"/bundles/blacksmith/bronze/manifest-v2.json","sku":"DCE-00801","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-bronze.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Bronze"},{"id":"00802","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916563+00:00","name":"Copper","manifestUrl":"/bundles/blacksmith/copper/manifest-v2.json","sku":"DCE-00802","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-copper.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Copper"},{"id":"00803","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916566+00:00","name":"Damascus Steel","manifestUrl":"/bundles/blacksmith/damascus/manifest-v2.json","sku":"DCE-00803","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-damascus.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Damascus Steel"},{"id":"00804","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916568+00:00","name":"Electrum","manifestUrl":"/bundles/blacksmith/electrum/manifest-v2.json","sku":"DCE-00804","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-electrum.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Electrum"},{"id":"00805","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916572+00:00","name":"Gold","manifestUrl":"/bundles/blacksmith/gold/manifest-v2.json","sku":"DCE-00805","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-gold.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Gold"},{"id":"00806","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916574+00:00","name":"Iron","manifestUrl":"/bundles/blacksmith/iron/manifest-v2.json","sku":"DCE-00806","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-iron.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Iron"},{"id":"00807","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916576+00:00","name":"Platinum","manifestUrl":"/bundles/blacksmith/platinum/manifest-v2.json","sku":"DCE-00807","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-platinum.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Platinum"},{"id":"00808","dateCreated":"2020-07-08T00:00:00","dateModified":"2022-09-08T18:36:04.7916578+00:00","name":"Silver","manifestUrl":"/bundles/blacksmith/silver/manifest-v2.json","sku":"DCE-00808","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/blacksmith-silver.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Blacksmith's Dice Pack: Silver"}],"accessTypes":{"00801":4,"00802":4,"00803":4,"00804":4,"00805":4,"00806":4,"00807":4,"00808":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00800","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/blacksmiths-dice-pack","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/blacksmith-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mduAMZZrQcU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The pack includes 8 digital dice sets forged from Bronze, Copper, Damascus Steel, Electrum, Gold, Iron, Platinum, and Silver.</p><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p><p>Get the essential D&D collection:<br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=phb\">Player’s Handbook</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=dmg\">Dungeon Masters Guide</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/monster-manual?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=mm\">Monster Manual</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/xanathars-guide-to-everything?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=xgte\">Xanathar’s Guide To Everything</a><br/></p>"},{"id":"009","familyId":"009","dateCreated":"2020-07-29T00:00:00","dateModified":"2022-06-15T16:36:48.2077384+00:00","name":"Dice of Healing","description":"Our alchemists have brewed, bottled, and balanced this Dice of Healing set to always roll true and keep you safe during your epic adventures.","sets":{"definitionData":[{"id":"00901","dateCreated":"2020-07-29T00:00:00","dateModified":"2022-06-15T16:36:48.2077391+00:00","name":"Dice of Healing","manifestUrl":"/bundles/healing/manifest-v2.json","sku":"DCE-00901","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/healing.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Dice of Healing"}],"accessTypes":{"00901":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-00900","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"010","familyId":"010","dateCreated":"2020-08-25T00:00:00","dateModified":"2022-06-15T16:36:48.1389929+00:00","name":"Icewind Dale: Rime of the Frostmaiden Dice Set","description":"Made for navigating the treacherous tundra of the frozen north, this digital dice set has a physical companion set which can be purchased anywhere D&D books are sold.","sets":{"definitionData":[{"id":"01001","dateCreated":"2020-08-25T00:00:00","dateModified":"2022-06-15T16:36:48.1389936+00:00","name":"Icewind Dale: Rime of the Frostmaiden Dice Set","manifestUrl":"/bundles/frostmaiden/manifest-v2.json","sku":"DCE-01001","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/frostmaiden.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Icewind Dale: Rime of the Frostmaiden Dice Set"}],"accessTypes":{"01001":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01000","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"011","familyId":"011","dateCreated":"2020-08-24T00:00:00","dateModified":"2022-06-15T16:36:48.4778984+00:00","name":"Cauldron Dice Set","description":"Conjured from curious components, these colorfully cracked dice create complex combinations as they clamber across your character sheet.","sets":{"definitionData":[{"id":"01101","dateCreated":"2020-08-24T00:00:00","dateModified":"2022-06-15T16:36:48.4778992+00:00","name":"Cauldron Dice Set","manifestUrl":"/bundles/cauldron/manifest-v2.json","sku":"DCE-01101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/cauldron.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Cauldron Dice Set"}],"accessTypes":{"01101":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01100","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"012","familyId":"012","dateCreated":"2020-09-11T00:00:00","dateModified":"2023-05-22T16:19:27.50184+00:00","name":"The Everlasting Rime","description":"Beware! Covered in shards of ice, this digital dice set only thaws to reveal the success of your roll or betray the secret you hold close.","sets":{"definitionData":[{"id":"01201","dateCreated":"2020-09-11T00:00:00","dateModified":"2023-05-22T16:19:27.5018446+00:00","name":"The Everlasting Rime","manifestUrl":"/bundles/rime/manifest.json","sku":"DCE-01201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/rime.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"The Everlasting Rime"}],"accessTypes":{"01201":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01200","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/everlasting-rime","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/everlasting-rime-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xR4D8dAO_Zw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Beware! The frozen tundra, from which these dice call home, brings harsh blizzards and unyielding temperatures. Be careful when rolling, the spikes are frozen solid and will freeze your blood.</p><p>The proceeds from this dice set will go support the work at <a href=\"https://www.extra-life.org/index.cfm?fuseaction=cms.page&id=1306\" target=\"_blank\">Extra Life</a>.</p><p style=\"width:600px;margin:16px auto\"><a href=\"https://www.extra-life.org/index.cfm?fuseaction=cms.page&id=1306\" target=\"_blank\"><img width=\"600\" height=\"300\" src=\"https://www.dndbeyond.com/dice/mktg/AdventEverlasting%20Rime-600x300.png\"></a></p><p>•&nbsp;<strong>Critical Animation:</strong> When the dice drop to 20, unleash winter's wrath as she claims your success in the chaos of the blizzard.<br/>•&nbsp;<strong>Removal Animation:</strong>The dice fade as a snowstorm blows over them.<br/>•&nbsp;<strong>Unique Sounds:</strong>Raging winds from the frozen north emerge from the depths of the dice.<br/>•&nbsp;<strong>Special Reveal:</strong> These dice are covered in a thick layer of ice that reveals the number of your roll when they land.</p>"},{"id":"013","familyId":"013","dateCreated":"2020-12-08T00:00:00","dateModified":"2022-06-15T16:36:48.1245897+00:00","name":"Gift-Wrapped Dice Set","description":"Please enjoy this-gift-wrapped dice set as a thank you for giving the gift of D&D Beyond.","sets":{"definitionData":[{"id":"01301","dateCreated":"2020-12-08T00:00:00","dateModified":"2022-06-15T16:36:48.1245905+00:00","name":"Gift-Wrapped Dice Set","manifestUrl":"/bundles/gift-wrapped/manifest.json","sku":"DCE-01301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gift-wrapped.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"3.2.3","fullName":"Gift-Wrapped Dice Set"}],"accessTypes":{"01301":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01300","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"014","familyId":"014","dateCreated":"2021-02-24T00:00:00","dateModified":"2022-06-15T16:36:48.2590793+00:00","name":"Researcher's Dice Set","description":"Upon entry to the massive library, you were given this dice set. Use them wisely. Rolling could unravel the mysteries of the planes.","sets":{"definitionData":[{"id":"01401","dateCreated":"2021-02-24T00:00:00","dateModified":"2022-06-15T16:36:48.2590801+00:00","name":"Researcher's Dice Set","manifestUrl":"/bundles/researchers/manifest.json","sku":"DCE-01401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/researchers.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Researcher's Dice Set"}],"accessTypes":{"01401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01400","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"015","familyId":"015","dateCreated":"2021-02-24T00:00:00","dateModified":"2022-06-15T16:36:47.7877031+00:00","name":"Memento Mori","description":"Remain vigilant. The grave consequences of your roll will spread as the stones come to their final resting place.","sets":{"definitionData":[{"id":"01501","dateCreated":"2021-02-24T00:00:00","dateModified":"2022-06-15T16:36:47.7877067+00:00","name":"Memento Mori","manifestUrl":"/bundles/memento-mori/manifest.json","sku":"DCE-01501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/memento-mori.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Memento Mori"}],"accessTypes":{"01501":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01500","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"016","familyId":"016","dateCreated":"2021-05-24T00:00:00","dateModified":"2022-06-15T16:36:48.4678312+00:00","name":"Sanguine Dice Set","description":"Are you the horror, or the hunter? Your fate is a heartbeat away.","sets":{"definitionData":[{"id":"01601","dateCreated":"2021-05-24T00:00:00","dateModified":"2022-06-15T16:36:48.4678318+00:00","name":"Sanguine Dice Set","manifestUrl":"/bundles/sanguine/manifest.json","sku":"DCE-01601","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/sanguine.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Sanguine Dice Set"}],"accessTypes":{"01601":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01600","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"017","familyId":"017","dateCreated":"2021-08-17T00:00:00","dateModified":"2022-06-15T16:36:48.327439+00:00","name":"Dice of Heroism","description":"It takes more than a liquid to be a hero, but even heroes need help sometimes. Keep this dice set close and it will give you that boost of confidence when times are tough.","sets":{"definitionData":[{"id":"01701","dateCreated":"2021-08-17T00:00:00","dateModified":"2022-06-15T16:36:48.32744+00:00","name":"Dice of Heroism","manifestUrl":"/bundles/heroism/manifest.json","sku":"DCE-01701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/heroism.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Dice of Heroism"}],"accessTypes":{"01701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01700","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":"<ul><li><em>Ambient Animation:</em> The blue liquid in this bottle boils with untapped potential.</li><li><em>Removal Animation:</em> After the roll, the bottle and it's contents magically evaporate.</li><li><em>Unique Sounds:</em> As the dice roll, hear the liquid splash in these special unbreakable glass bottles.</li></ul>"},{"id":"018","familyId":"018","dateCreated":"2021-08-17T00:00:00","dateModified":"2022-06-15T16:36:48.1581744+00:00","name":"Beyond Dice Set","description":"We at D&D Beyond believe D&D is for everyone and we are committed to making it easy to play. We can't do it without you. Please accept this digital dice set as a thank you for being a D&D Beyond user.","sets":{"definitionData":[{"id":"01801","dateCreated":"2021-08-17T00:00:00","dateModified":"2022-06-15T16:36:48.1581752+00:00","name":"Beyond Dice Set","manifestUrl":"/bundles/beyond/manifest.json","sku":"DCE-01801","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/beyond.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Beyond Dice Set"}],"accessTypes":{"01801":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01800","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"019","familyId":"019","dateCreated":"2021-08-31T00:00:00","dateModified":"2022-06-15T16:36:48.4402374+00:00","name":"Ringmaster's Dice Set","description":"Step right up and roll the most amazing, magical, mystifying, death-defying, never-before-seen oddities from antiquity. This fortune-telling dice set is guaranteed to give you a number and take you wherever you were going. What you do with that number when you get there is up to you! The possibilities are endless.","sets":{"definitionData":[{"id":"01901","dateCreated":"2021-08-31T00:00:00","dateModified":"2022-06-15T16:36:48.4402383+00:00","name":"Ringmaster's Dice Set","manifestUrl":"/bundles/ringmaster/manifest.json","sku":"DCE-01901","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/ringmaster.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Ringmaster's Dice Set"}],"accessTypes":{"01901":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-01900","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"020","familyId":"020","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.1774136+00:00","name":"Dragon Eggs","description":"These eggs are HOT. Use with caution. You never know what could hatch.","sets":{"definitionData":[{"id":"02001","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.1774144+00:00","name":"Dragon Eggs","manifestUrl":"/bundles/dragon-eggs/manifest.json","sku":"DCE-02001","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/dragon-eggs.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Dragon Eggs"}],"accessTypes":{"02001":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02000","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"021","familyId":"021","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-09-08T18:36:24.3720495+00:00","name":"Elder Heart","description":"Deep at the center of the forest lives a being of crystalized wild magic, offering tokens of chance. You can't recall the terms of the bargain you struck, but you feel the danger with every roll.","sets":{"definitionData":[{"id":"02101","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-09-08T18:36:24.3720525+00:00","name":"Elder Heart","manifestUrl":"/bundles/elder-heart/manifest.json","sku":"DCE-02101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/elder-heart.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Elder Heart"}],"accessTypes":{"02101":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02100","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/elder-heart","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/elder-heart-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/TPIIrDIB9SQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p><span>•&nbsp;<strong>Critical Animation: </strong>Beautiful botanicals bloom when you roll a critical hit<br/></span><span>•&nbsp;<strong>Removal Animation: </strong>Each roll is carried away by fireflies<br/></span><span>•&nbsp;<strong>Unique Sounds: </strong>Soft, delicate melodies play when you roll these gems<br/></span></p><p>Perfect for druids, rangers, Oath of the Ancients paladins, and any character with a deep connection to the wild places of the world.</p><p>Get the campaign to match your dice with <a href=\"https://www.dndbeyond.com/marketplace/adventures/the-wild-beyond-the-witchlight\">The Wild Beyond the Witchlight</a></p><p>Get the essential D&D collection:<br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=phb\">Player’s Handbook</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=dmg\">Dungeon Masters Guide</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/monster-manual?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=mm\">Monster Manual</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/xanathars-guide-to-everything?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=xgte\">Xanathar’s Guide To Everything</a><br/></p>"},{"id":"022","familyId":"022","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.0925324+00:00","name":"Scholar's Dice Set","description":"Upon acceptance to the university, all students learn magic but only a few rise to the highest level, receiving a runic dice set to use during their studies. Congratulations, this dice set is yours.","sets":{"definitionData":[{"id":"02201","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.0925332+00:00","name":"Scholar's Dice Set","manifestUrl":"/bundles/scholar/manifest.json","sku":"DCE-02201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/scholar.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Scholar's Dice Set"}],"accessTypes":{"02201":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02200","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"023","familyId":"023","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871756+00:00","name":"Battle for Beyond Dice Pack","description":"These dice were forged to commemorate the legendary competitors of an elusive and infamous competition. Let your characters channel their mythical deeds with one or more of these digital dice sets.","sets":{"definitionData":[{"id":"02301","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871771+00:00","name":"Ekon","manifestUrl":"/bundles/battle-for-beyond/ekon/manifest.json","sku":"DCE-02301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-ekon.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Ekon"},{"id":"02302","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871776+00:00","name":"Leila","manifestUrl":"/bundles/battle-for-beyond/leila/manifest.json","sku":"DCE-02302","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-leila.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Leila"},{"id":"02303","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.987178+00:00","name":"Lenore","manifestUrl":"/bundles/battle-for-beyond/lenore/manifest.json","sku":"DCE-02303","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-lenore.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Lenore"},{"id":"02304","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871784+00:00","name":"Murdina","manifestUrl":"/bundles/battle-for-beyond/murdina/manifest.json","sku":"DCE-02304","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-murdina.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Murdina"},{"id":"02305","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871794+00:00","name":"Nikhil","manifestUrl":"/bundles/battle-for-beyond/nikhil/manifest.json","sku":"DCE-02305","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-nikhil.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Nikhil"},{"id":"02306","dateCreated":"2021-10-22T00:00:00","dateModified":"2022-09-08T18:36:31.9871797+00:00","name":"Sestia","manifestUrl":"/bundles/battle-for-beyond/sestia/manifest.json","sku":"DCE-02306","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-sestia.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"4.1.1","fullName":"Battle for Beyond Dice Pack: Sestia"}],"accessTypes":{"02301":4,"02302":4,"02303":4,"02304":4,"02305":4,"02306":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02300","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/battle-for-beyond","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/battle-for-beyond-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/R0oQkPQ4_A8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p>"},{"id":"024","familyId":"024","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.3897835+00:00","name":"Fuzzy Dice Set","description":"Hang these dice from your rear view mirror as a reminder to always look forward and never look back.","sets":{"definitionData":[{"id":"02401","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-06-15T16:36:48.3897844+00:00","name":"Fuzzy Dice Set","manifestUrl":"/bundles/fuzzy/manifest.json","sku":"DCE-02401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/fuzzy.jpg?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Fuzzy Dice Set"}],"accessTypes":{"02401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02400","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"025","familyId":"025","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-09-08T18:36:44.2924654+00:00","name":"Dice of Enlightenment","description":"In seeking the path to enlightenment, you discovered these artifacts glowing with the promise of knowledge. You're not sure if they'll help you uncover hidden truths, but each roll offers that chance.","sets":{"definitionData":[{"id":"02501","dateCreated":"2021-10-08T00:00:00","dateModified":"2022-09-08T18:36:44.2924665+00:00","name":"Dice of Enlightenment","manifestUrl":"/bundles/cathedral/manifest.json","sku":"DCE-02501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/cathedral.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Dice of Enlightenment"}],"accessTypes":{"02501":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02500","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/dice-of-enlightenment","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/enlightenment-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EHQjwdZtYHs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> Magical knowledge breaks through the arched windows when the roller hits a 20.<br/>•&nbsp;<strong>Removal Animation:</strong> The dice crumble into ruins after the roll has been made.<br/>•&nbsp;<strong>Unique Sounds:</strong> Tower bells sound every time a roll is made."},{"id":"026","familyId":"026","dateCreated":"2022-01-21T00:00:00","dateModified":"2022-06-15T16:36:48.0696116+00:00","name":"Astral Dice Set","description":"Your dice reflect a distant, far-off world that feels completely alien to you. As you roll them, stars and strange-colored clouds shift to reveal a window into the astral plane.","sets":{"definitionData":[{"id":"02601","dateCreated":"2022-01-21T00:00:00","dateModified":"2022-06-15T16:36:48.0696129+00:00","name":"Astral Dice Set","manifestUrl":"/bundles/astral/manifest.json","sku":"DCE-02601","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/astral.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Astral Dice Set"}],"accessTypes":{"02601":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02600","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"027","familyId":"027","dateCreated":"2022-03-07T00:00:00","dateModified":"2022-06-15T16:36:48.1988728+00:00","name":"Masterwork Dice Set","description":"In front of you sits an intricately made dice set found in the most exclusive and luxurious bazaar. A circular red jewel catches your attention, reminding you of the red moon.","sets":{"definitionData":[{"id":"02701","dateCreated":"2022-03-07T00:00:00","dateModified":"2022-06-15T16:36:48.1988736+00:00","name":"Masterwork Dice Set","manifestUrl":"/bundles/masterwork/manifest.json","sku":"DCE-02701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/masterwork.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Masterwork Dice Set"}],"accessTypes":{"02701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02700","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"028","familyId":"028","dateCreated":"2022-03-31T00:00:00","dateModified":"2023-11-07T19:29:23.8410342+00:00","name":"Call of the Corrupted Dice Set","description":"An alien mineral imbues its twisted energy into these marble dice, bringing knowledge and the chance of corruption with every roll. Will you listen to its call?","sets":{"definitionData":[{"id":"02801","dateCreated":"2022-03-31T00:00:00","dateModified":"2023-11-07T19:29:23.8410356+00:00","name":"Call of the Corrupted Dice Set","manifestUrl":"/bundles/corrupted/manifest.json","sku":"DCE-02801","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/corrupted.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"5.0.3","fullName":"Call of the Corrupted Dice Set"}],"accessTypes":{"02801":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02800","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/corrupted","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/corrupted-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/WFxHDCi6yVY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> Terrifying energy corrupts your dice when you roll a natural 20.<br/>•&nbsp;<strong>Removal Animation:</strong> The stone dice crumbles away after your roll.<br/>•&nbsp;<strong>Unique Sounds:</strong> The marble material click and clack with your dice roll but when you hit a natural 20, beware of the rampaging roar.<br/>Get the campaign to match your dice with <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/critical-role-call-of-the-netherdeep?icid_source=corrupted&icid_medium=crosspromo&icid_campaign=moot\">Critical Role: Call of the Netherdeep</a>"},{"id":"029","familyId":"029","dateCreated":"2022-05-02T00:00:00","dateModified":"2022-09-08T18:37:02.3884726+00:00","name":"Jasper's Dice Set","description":"This digital dice set is dedicated to the memory of a dear friend, in whose honor Fenway Jones founded the charity Jasper's Game Day. The proceeds from this dice set will go to support the Jasper's Game Day mission of suicide prevention and awareness.","sets":{"definitionData":[{"id":"02901","dateCreated":"2022-05-02T00:00:00","dateModified":"2022-09-08T18:37:02.3884743+00:00","name":"Jasper's Dice Set","manifestUrl":"/bundles/jasper/manifest.json","sku":"DCE-02901","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/jasper.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"6.0.19","fullName":"Jasper's Dice Set"}],"accessTypes":{"02901":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-02900","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/jasper","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/jasper-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ZsRFMQ2nGCQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>&nbsp;<p>This set was based on the design by <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dieharddice.com/\">Die Hard Dice</a> for Jasper's Game Week 2022. Purchase the <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dieharddice.com/products/7-piece-rpg-set-jaspers-game-day-2022\">physical dice set</a> to match!</p><p>As a 501(c)(3) nonprofit organization, <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://jaspersgameday.com/\">Jasper's Game Day</a> has a mission to raise funds for suicide prevention and awareness. Through this, they strive to reduce the stigma around talking about mental health so the world can start to treat it just like physical health. In reducing the stigma around mental health, they want to be able to help prevent suicide, and not just respond to the aftermath. They want to bring the community together and show everyone that they are not alone!</p><p>\"We have a clear mission, and with luck on our side, every roll is a 20 and no 1 is left behind.\" - Jasper's Game Day</p><p>To that end, when a natural 1 is rolled on this digital dice set, a magical phoenix emerges through the flames and soars to new heights.</p>"},{"id":"030","familyId":"030","dateCreated":"2022-05-02T00:00:00","dateModified":"2023-11-07T19:29:15.7782911+00:00","name":"Dice of Planar Summoning","description":"Sparkling with the musings of the wizard Mordenkainen, these dice feature a host of creatures from the multiverse. Before you roll them, be ready for anything.","sets":{"definitionData":[{"id":"03001","dateCreated":"2022-05-02T00:00:00","dateModified":"2023-11-07T19:29:15.7782925+00:00","name":"Dice of Planar Summoning","manifestUrl":"/bundles/planar/manifest.json","sku":"DCE-03001","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/planar.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"6.0.19","fullName":"Dice of Planar Summoning"}],"accessTypes":{"03001":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03000","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/planar","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/planar-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9oqpLYVrBuQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> A portal opens to reveal a Kirin, Marut, or a Flail Snail at random.<br/>•&nbsp;<strong>Removal Animation:</strong> A portal opens to reveal a Nightwalker, Elder Brain, or an Astral Dreadnaught.<br/>•&nbsp;<strong>Unique Sounds:</strong> Each creature makes a unique sound as it comes through the portal. Watch as the portal closes and the dice are removed from the screen.<br/>Get the book to match your dice with <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/mordenkainen-presents-monsters-of-the-multiverse?icid_source=planar\">Mordenkainen Presents: Monsters of the Multiverse</a>"},{"id":"031","familyId":"031","dateCreated":"2022-05-27T00:00:00","dateModified":"2023-11-07T19:28:48.7238343+00:00","name":"Dice of Vecna","description":"Necromantic magic flows through this corrupted artifact. You claimed this dice set at great personal cost and your ambition has drawn the ire of Vecna the Undying King.","sets":{"definitionData":[{"id":"03101","dateCreated":"2022-05-27T00:00:00","dateModified":"2023-11-07T19:28:48.7238355+00:00","name":"Dice of Vecna","manifestUrl":"/bundles/vecna/manifest.json","sku":"DCE-03101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/vecna.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Dice of Vecna"}],"accessTypes":{"03101":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03100","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/vecna","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/vecna-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GiCD_jwmvXI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The cruel lich Vecna was once betrayed by his personal guard and lost his left eye for it.</p><p>Now you can roll with the cursed Eye of Vecna. Watch as the eye tumbles across your character sheet with the clang of the metal bands that protect it and hear the cursed magic as it teleports away. But beware, Vecna is watching your every move...</p><p>•&nbsp;<strong>d20 Animation:</strong> Roll the Eye of Vecna and see the number in the pupil as it focuses on you.<br/>•&nbsp;<strong>Removal Animation:</strong> After the dice have been rolled, they disappear with the haunting melody of forbidden magic.<br/>•&nbsp;<strong>Unique Sounds:</strong> When rolled, hear the clinking sounds of metallic bands holding the decaying dice together.</p><p>Read the Vecna Dossier for a full profile on Vecna himself! <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/claim/source/vecna?icid_source=vecna\">The Vecna Dossier</a></p>"},{"id":"032","familyId":"032","dateCreated":"2022-06-01T00:00:00","dateModified":"2022-06-15T16:36:48.4583342+00:00","name":"Dice of True Color","description":"This digital dice set was hewn from geodes formed under intense heat and pressure. Inside, you’ll find gleaming colors that delight.","sets":{"definitionData":[{"id":"03201","dateCreated":"2022-06-01T00:00:00","dateModified":"2022-06-15T16:36:48.4583349+00:00","name":"Dice of True Color","manifestUrl":"/bundles/pride/manifest.json","sku":"DCE-03201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/pride.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"6.0.19","fullName":"Dice of True Color"}],"accessTypes":{"03201":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03200","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":"<strong>Roll with pride</strong><br/>Tabletop roleplaying games can serve as a sanctuary for players and as an avenue through which we can discover what makes us uniquely amazing. To celebrate Pride Month, D&D Beyond is offering the Dice of True Color to all account holders.<br/>Created by Lee Emig, this digital dice set was hewn from geodes formed under intense heat and pressure. Inside, you’ll find gleaming colors that delight.<br/><em>In the United States, Pride Month takes place each year during June and celebrates the LGBTQ+ community. It commemorates the 1969 Stonewall Uprising in Manhattan that served as a catalyst for the gay rights movement.</em>"},{"id":"033","familyId":"033","dateCreated":"2022-06-09T00:00:00","dateModified":"2022-06-28T18:31:05.9417997+00:00","name":"Concord Jewel Dice Set","description":"These dice were roughly hewn from a long-lost Concord Jewel. Roll them and see where they take you.","sets":{"definitionData":[{"id":"03301","dateCreated":"2022-06-09T00:00:00","dateModified":"2022-06-28T18:31:05.9418035+00:00","name":"Concord Jewel Dice Set","manifestUrl":"/bundles/concord/manifest.json","sku":"DCE-03301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/concord.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Concord Jewel Dice Set"}],"accessTypes":{"03301":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03300","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"034","familyId":"034","dateCreated":"2022-06-21T00:00:00","dateModified":"2022-06-28T20:06:00.1666944+00:00","name":"Clockwork Dice Set","description":"Tiny interlocking gears connect inside a bronze framework to create perfect polyhedrals.","sets":{"definitionData":[{"id":"03401","dateCreated":"2022-06-21T00:00:00","dateModified":"2022-06-28T20:06:00.1666979+00:00","name":"Clockwork Dice Set","manifestUrl":"/bundles/clockwork/manifest.json","sku":"DCE-03401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/clockwork.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Clockwork Dice Set"}],"accessTypes":{"03401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03400","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"035","familyId":"035","dateCreated":"2022-07-12T00:00:00","dateModified":"2022-09-08T18:37:26.4371842+00:00","name":"Dice of the Dawn Incarnates","description":"Now you can harness the power of benevolent spirits known as Dawn Incarnates. Made from amethyst, these dice impart wisdom to the worthy.","sets":{"definitionData":[{"id":"03501","dateCreated":"2022-07-12T00:00:00","dateModified":"2022-09-08T18:37:26.4371854+00:00","name":"Dice of the Dawn Incarnates","manifestUrl":"/bundles/dawn-incarnates/manifest.json","sku":"DCE-03501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/dawn-incarnates.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Dice of the Dawn Incarnates"}],"accessTypes":{"03501":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03500","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/dawn-incarnates","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/dawn-incarnates-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/cY7bMRQ8fDM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Dawn Incarnates are spirits that preserve the storied history of civilizations. For your good deeds across the multiverse, you have been granted not only an audience with the Dawn Incarnates but also a modicum of their power.</p><p>•&nbsp;<strong>Critical Animation:</strong> Gem shards spin to conjure one of three Dawn Incarnates! Keep rolling to find each one!<br/>•&nbsp;<strong>Removal Animation:</strong> Once your fate has been decided, watch as the dice teleport away in a flash of light.<br/>•&nbsp;<strong>Unique Sounds:</strong> These amethyst dice clink across your character sheet before displaying your roll in a glowing white text.</p><p>Learn more about the Dawn Incarnates and where they reside in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/journeys-through-the-radiant-citadel?icid_medium=ddb&icid_source=marketplace&icid_campaign=dawn-incarnate-dice&icid_content=jttrc\">Journeys Through the Radiant Citadel</a>.</p>"},{"id":"036","familyId":"036","dateCreated":"2022-07-22T00:00:00","dateModified":"2022-07-28T00:31:08.5582822+00:00","name":"Flourishing Dice Set","description":"To celebrate D&D Beyond’s fifth year anniversary, we sprouted a wooden dice set that pulses with magical energy when you roll a crit!","sets":{"definitionData":[{"id":"03601","dateCreated":"2022-07-22T00:00:00","dateModified":"2022-07-28T00:31:08.5582862+00:00","name":"Flourishing Dice Set","manifestUrl":"/bundles/flourishing/manifest.json","sku":"DCE-03601","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/flourishing.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Flourishing Dice Set"}],"accessTypes":{"03601":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03600","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"037","familyId":"037","dateCreated":"2022-07-28T00:00:00","dateModified":"2022-07-29T16:45:56.9438484+00:00","name":"The Space Guppy Dice Set","description":"These dice were fished out of Wildspace and gleam with colorful scales reminiscent of the alien fish that reside in the cosmos!","sets":{"definitionData":[{"id":"03701","dateCreated":"2022-07-28T00:00:00","dateModified":"2022-07-29T16:45:56.9438519+00:00","name":"The Space Guppy Dice Set","manifestUrl":"/bundles/space-guppy/manifest.json","sku":"DCE-03701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/space-guppy.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"The Space Guppy Dice Set"}],"accessTypes":{"03701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03700","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"038","familyId":"038","dateCreated":"2022-08-05T00:00:00","dateModified":"2022-11-22T16:57:15.2982853+00:00","name":"The Spelljammer’s Dice Set","description":"Journey into the cosmos and witness spelljamming ships and alien creatures as they encircle mystifying locations!","sets":{"definitionData":[{"id":"03801","dateCreated":"2022-08-05T00:00:00","dateModified":"2022-11-22T16:57:15.2982916+00:00","name":"The Spelljammer’s Dice Set","manifestUrl":"/bundles/spelljammer/manifest.json","sku":"DCE-03801","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/spelljammer.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Spelljammer’s Dice Set"}],"accessTypes":{"03801":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03800","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/spelljammer","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/spelljammer-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9vw7lhcxddk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Take off on spelljamming adventures with these starry dice! Watch as they tumble across the cosmos to encounter curious ships, alien creatures such as space whales, and unique locations throughout Wildspace!</p><p>•&nbsp;<strong>Critical Animation:</strong> Spelljamming ships emerge to explore the asteroid city of Bral and other locations found throughout the multiverse. Discover nautiloid ships and other vessels and curious creatures found in Spelljammer.<br/>•&nbsp;<strong>Ambient Animation:</strong> These silvery dice glint with the distant stars of Wildspace.<br/>•&nbsp;<strong>Removal Animation:</strong> The dice cross into the Astral Sea with a flash of light!<br/>•&nbsp;<strong>Unique Sounds:</strong> The Spelljammer’s Dice Set tumble across your character sheet with the clank of metal.</p><p>The near-infinite cosmos await you in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/spelljammer-adventures-in-space?icid_medium=ddb&icid_source=marketplace&icid_campaign=spelljammer-dice&icid_content=spelljammer\">Spelljammer: Adventures in Space</a>.</p>"},{"id":"039","familyId":"039","dateCreated":"2022-11-01T00:00:00","dateModified":"2022-11-01T18:36:04.1509753+00:00","name":"Leather Armor Dice Set","description":"Cured, stitched, and reinforced, these armored dice are ready to roll on the battlefields of Krynn.","sets":{"definitionData":[{"id":"03901","dateCreated":"2022-11-01T00:00:00","dateModified":"2022-11-01T18:36:04.1509765+00:00","name":"Leather Armor Dice Set","manifestUrl":"/bundles/leather/manifest.json","sku":"DCE-03901","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/leather.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"7.0.7","fullName":"Leather Armor Dice Set"}],"accessTypes":{"03901":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-03900","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"040","familyId":"040","dateCreated":"2022-11-01T00:00:00","dateModified":"2023-07-10T17:42:27.9586835+00:00","name":"The Treasure Hoard Dice Set","description":"You come upon a treasure chest of immaculate design. Crack it open and find out whether coin or gnashing teeth await you inside!","sets":{"definitionData":[{"id":"04001","dateCreated":"2022-11-01T00:00:00","dateModified":"2023-07-10T17:42:27.9586848+00:00","name":"The Treasure Hoard Dice Set","manifestUrl":"/bundles/treasure/manifest.json","sku":"DCE-04001","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/treasure.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Treasure Hoard Dice Set"}],"accessTypes":{"04001":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04000","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/treasure","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/treasure-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>Within every great dungeon lies riches — and traps! These dice contain both, but you won't know which fate has in store for you until you roll them!</p><p>•&nbsp;<strong>Critical Animation:</strong> These dice open to reveal gold and jewels when you roll a 20! On a 1, they open up to reveal the sharp teeth and swinging tongue of a mimic!<br/>•&nbsp;<strong>Ambient Animation:</strong> These dice are finely crafted treasure chests made of polished wood and metal — or are they?<br/>•&nbsp;<strong>Unique Sounds:</strong> Coins and jewels tumble within these dice. On occasion, the dice open up to the growls of a mimic!</p>"},{"id":"041","familyId":"041","dateCreated":"2022-11-16T00:00:00","dateModified":"2023-07-25T16:04:53.4914347+00:00","name":"The Clash of Thorns Set","description":"Don these armored dice and face off against the Dragon Armies that threaten your world! But beware, for you may come face to face with the cruel Lord Soth!","sets":{"definitionData":[{"id":"04101","dateCreated":"2022-11-16T00:00:00","dateModified":"2023-07-25T16:04:53.4914381+00:00","name":"The Clash of Thorns Set","manifestUrl":"/bundles/clash-of-thorns/manifest.json","sku":"DCE-04101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/clash-of-thorns.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Clash of Thorns Set"}],"accessTypes":{"04101":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04100","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/clash-of-thorns","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/clash-of-thorns-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/LjTBTn2WVVo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The Dragon Armies of the evil Dragon Queen Takhisis are tearing through your homelands, and you’ve been called to fight! Now you can equip these armored dice to aid you in battle. Each is crafted from leather bands and armor plates with carefully etched interwoven bands.</p><p>•&nbsp;<strong>Critical Animation:</strong> As the battle sways in and out of your favor, you’ll conjure a Knight of Solamnia surrounded by white flowers or come face to face with the infamous Lord Soth, whose eyes burn red!<br/>•&nbsp;<strong>Ambient Animation:</strong> These dice glow with magic that will light your way to victory.<br/>•&nbsp;<strong>Unique Sounds:</strong> As your fate is decided, you’ll hear the clink of metal as the dice roll across your character sheet.</p><p>Ready to take the fight to Takhisis? A war awaits you in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/dragonlance-shadow-of-the-dragon-queen-digital-pre?icid_medium=ddb&icid_source=marketplace&icid_campaign=dragonlance-dice&icid_content=dragonlance\">Dragonlance: Shadow of the Dragon Queen</a>.</p>"},{"id":"042","familyId":"042","dateCreated":"2022-12-05T00:00:00","dateModified":"2023-01-06T17:13:58.4146015+00:00","name":"Yule Dice Set","description":"Wrapped in paper and draped with trinkets, The Yule Dice celebrate the end of one year and the start of the next. Happy Holidays!","sets":{"definitionData":[{"id":"04201","dateCreated":"2022-12-05T00:00:00","dateModified":"2023-01-06T17:13:58.414606+00:00","name":"Yule Dice Set","manifestUrl":"/bundles/yule/manifest.json","sku":"DCE-04201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/yule.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"Yule Dice Set"}],"accessTypes":{"04201":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04200","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"043","familyId":"043","dateCreated":"2023-01-20T00:00:00","dateModified":"2023-03-28T17:12:36.3769156+00:00","name":"The Gilded Glitz Set","description":"Sleek, golden, angular: the perfect design to go with the perfect heist. Add some Glitz to your rolls!","sets":{"definitionData":[{"id":"04301","dateCreated":"2023-01-20T00:00:00","dateModified":"2023-03-28T17:12:36.3769168+00:00","name":"The Gilded Glitz Set","manifestUrl":"/bundles/gilded-glitz/manifest.json","sku":"DCE-04301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gilded-glitz.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gilded Glitz Set"}],"accessTypes":{"04301":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04300","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"044","familyId":"044","dateCreated":"2022-02-06T00:00:00","dateModified":"2023-03-28T17:11:04.765819+00:00","name":"The Golden Vault Set","description":"The Golden Vault has another mission for you, roll the dice to insert the key and see what they have in store for your crew!","sets":{"definitionData":[{"id":"04401","dateCreated":"2022-02-06T00:00:00","dateModified":"2023-03-28T17:11:04.7658231+00:00","name":"The Golden Vault Set","manifestUrl":"/bundles/golden-vault/manifest.json","sku":"DCE-04401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/golden-vault.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Golden Vault Set"}],"accessTypes":{"04401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04400","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/golden-vault","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/golden-vault-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>The Golden Vault, rumored to be associated with metallic dragons, is a secretive organization that handles delicate situations local authorities won’t touch. Through music boxes, they deliver missions to their operatives. Insert the key and see what they have in store! Remember to “Do good, no matter the cost.”</p><p>•&nbsp;<strong>Critical Animation:</strong> A great success will insert the key and reveal the surprise waiting inside.<br/>•&nbsp;<strong>Unique Sounds:</strong> This music box jingles as it rolls across the board. Winding the key also reveals a unique tune!</p><p>Think your Heist crew is ready? More missions await in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/sources/kftgv\">Keys from the Golden Vault</a>!</p>"},{"id":"045","familyId":"045","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5667986+00:00","name":"The Gemstone Dice Pack","description":"Hewn from gems, these beautiful Gemstone dice glitter and glow as they roll across the table. Hopefully bringing good fortune to your rolls!","sets":{"definitionData":[{"id":"04501","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5667997+00:00","name":"Amethyst","manifestUrl":"/bundles/gemstone/amethyst/manifest.json","sku":"DCE-04501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-amethyst.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Amethyst"},{"id":"04502","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668001+00:00","name":"Black Opal","manifestUrl":"/bundles/gemstone/black-opal/manifest.json","sku":"DCE-04502","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-black-opal.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Black Opal"},{"id":"04503","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668002+00:00","name":"Diamond","manifestUrl":"/bundles/gemstone/diamond/manifest.json","sku":"DCE-04503","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-diamond.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Diamond"},{"id":"04504","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668004+00:00","name":"Emerald","manifestUrl":"/bundles/gemstone/emerald/manifest.json","sku":"DCE-04504","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-emerald.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Emerald"},{"id":"04505","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668006+00:00","name":"Ruby","manifestUrl":"/bundles/gemstone/ruby/manifest.json","sku":"DCE-04505","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-ruby.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Ruby"},{"id":"04506","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668008+00:00","name":"Sapphire","manifestUrl":"/bundles/gemstone/sapphire/manifest.json","sku":"DCE-04506","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-sapphire.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Sapphire"},{"id":"04507","dateCreated":"2023-03-22T00:00:00","dateModified":"2023-07-10T17:42:35.5668009+00:00","name":"Topaz","manifestUrl":"/bundles/gemstone/topaz/manifest.json","sku":"DCE-04507","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/gemstone-topaz.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Gemstone Dice Pack: Topaz"}],"accessTypes":{"04501":4,"04502":4,"04503":4,"04504":4,"04505":4,"04506":4,"04507":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04500","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/gemstone","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/gemstone-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>The pack includes 7 digital dice sets cut from Amethyst, Black Opal, Diamond, Emerald, Ruby, Sapphire, and Topaz.</br>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p>"},{"id":"046","familyId":"046","dateCreated":"2022-03-22T00:00:00","dateModified":"2023-05-22T15:25:56.7973781+00:00","name":"The Themberchaud Dice Set","description":"Among the lava and ash awaits a colossal form of armoured scales. Can you survive the wrath of the Wyrmsmith of Gracklstugh?","sets":{"definitionData":[{"id":"04601","dateCreated":"2022-03-22T00:00:00","dateModified":"2023-05-22T15:25:56.7973796+00:00","name":"The Themberchaud Dice Set","manifestUrl":"/bundles/themberchaud/manifest.json","sku":"DCE-04601","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/themberchaud.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Themberchaud Dice Set"}],"accessTypes":{"04601":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04600","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"047","familyId":"047","dateCreated":"2023-04-25T00:00:00","dateModified":"2023-04-25T14:43:18.2638399+00:00","name":"The Raw Amethyst Gemstone Dice","description":"Unearthed and thrown onto the battlefield, these Raw Amethyst Dice are ready to decide your fate!","sets":{"definitionData":[{"id":"04701","dateCreated":"2023-04-25T00:00:00","dateModified":"2023-04-25T14:43:18.2638431+00:00","name":"The Raw Amethyst Gemstone Dice","manifestUrl":"/bundles/raw-amethyst/manifest.json","sku":"DCE-04701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/raw-amethyst.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Raw Amethyst Gemstone Dice"}],"accessTypes":{"04701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04700","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"048","familyId":"048","dateCreated":"2023-05-22T00:00:00","dateModified":"2023-05-22T18:04:27.3175164+00:00","name":"The Prehistoric Gemstone Dice","description":"Formed in the dust at the start of the world, these dice existed with Giants and Dragons.","sets":{"definitionData":[{"id":"04801","dateCreated":"2023-05-22T00:00:00","dateModified":"2023-05-22T18:04:27.3175209+00:00","name":"The Prehistoric Gemstone Dice","manifestUrl":"/bundles/prehistoric-gemstone/manifest.json","sku":"DCE-04801","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/prehistoric-gemstone.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Prehistoric Gemstone Dice"}],"accessTypes":{"04801":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04800","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"049","familyId":"049","dateCreated":"2023-05-22T00:00:00","dateModified":"2023-05-22T18:09:19.2699449+00:00","name":"The Elder Flame Dice Set","description":"Roiling flames from deep below, resist the corruption of these Elder Flame dice!","sets":{"definitionData":[{"id":"04901","dateCreated":"2023-05-22T00:00:00","dateModified":"2023-05-22T18:09:19.2699461+00:00","name":"The Elder Flame Dice Set","manifestUrl":"/bundles/elder-flame/manifest.json","sku":"DCE-04901","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/elder-flame.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Elder Flame Dice Set"}],"accessTypes":{"04901":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-04900","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"051","familyId":"051","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.686715+00:00","name":"The Faction Dice Pack","description":"Many factions exist on the Sword Coast and beyond, who will you band together with to defeat the unknowable evil?","sets":{"definitionData":[{"id":"05101","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.6867187+00:00","name":"Emerald Enclave","manifestUrl":"/bundles/faction/emerald-enclave/manifest.json","sku":"DCE-05101","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/faction-emerald-enclave.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Faction Dice Pack: Emerald Enclave"},{"id":"05102","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.686719+00:00","name":"Gauntlet","manifestUrl":"/bundles/faction/gauntlet/manifest.json","sku":"DCE-05102","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/faction-gauntlet.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Faction Dice Pack: Gauntlet"},{"id":"05103","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.6867192+00:00","name":"Harpers","manifestUrl":"/bundles/faction/harpers/manifest.json","sku":"DCE-05103","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/faction-harpers.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Faction Dice Pack: Harpers"},{"id":"05104","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.6867194+00:00","name":"Lords Alliance","manifestUrl":"/bundles/faction/lords-alliance/manifest.json","sku":"DCE-05104","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/faction-lords-alliance.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Faction Dice Pack: Lords Alliance"},{"id":"05105","dateCreated":"2023-06-07T00:00:00","dateModified":"2023-06-07T15:08:11.6867201+00:00","name":"Zhentarim","manifestUrl":"/bundles/faction/zhentarim/manifest.json","sku":"DCE-05105","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/faction-zhentarim.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Faction Dice Pack: Zhentarim"}],"accessTypes":{"05101":4,"05102":4,"05103":4,"05104":4,"05105":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05100","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"052","familyId":"052","dateCreated":"2023-06-14T00:00:00","dateModified":"2023-11-07T19:29:31.192097+00:00","name":"The Owlbear Diceling Set","description":"Plastic turned Digital! See the Owlbear Diceling explode into life.","sets":{"definitionData":[{"id":"05201","dateCreated":"2023-06-14T00:00:00","dateModified":"2023-11-07T19:29:31.1920983+00:00","name":"The Owlbear Diceling Set","manifestUrl":"/bundles/owlbear/manifest.json","sku":"DCE-05201","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/owlbear.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Owlbear Diceling Set"}],"accessTypes":{"05201":4}},"isReleased":true,"isFeatured":true,"sku":"DCE-05200","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/owlbear","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/owlbear-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VbzrZ3urv8Q\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Roll for transformation! Here comes the mighty Owlbear, one of many of the monsters that populate the realms of Dungeons & Dragons, now brought to life in digital form!</p><p>•&nbsp;<strong>Critical Animation:</strong> See the Diceling transform into its true form as you critical, or crumble to pieces on a fail!<br/>•&nbsp;<strong>Removal Animation:</strong> See these dice collapse into parts as they tidy themselves off your sheet.<br/>•&nbsp;<strong>Unique Sounds:</strong> Hear them click and clack along the sheet, with some owlbear calls when the transformation happens!</p>"},{"id":"053","familyId":"053","dateCreated":"2023-06-14T00:00:00","dateModified":"2023-06-14T18:57:29.9162383+00:00","name":"The Modron Dice Set","description":"Here to observe the rolls on your sheet, these Modron dice will ensure that your results embody order!","sets":{"definitionData":[{"id":"05301","dateCreated":"2023-06-14T00:00:00","dateModified":"2023-06-14T18:57:29.9162395+00:00","name":"The Modron Dice Set","manifestUrl":"/bundles/modron/manifest.json","sku":"DCE-05301","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/modron.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Modron Dice Set"}],"accessTypes":{"05301":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05300","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"054","familyId":"054","dateCreated":"2023-07-10T00:00:00","dateModified":"2023-07-10T17:42:41.7891166+00:00","name":"The Bigby's Hand Dice Set","description":"Use the power of Bigby's Hand to generate your fate!","sets":{"definitionData":[{"id":"05401","dateCreated":"2023-07-10T00:00:00","dateModified":"2023-07-10T17:42:41.7891177+00:00","name":"The Bigby's Hand Dice Set","manifestUrl":"/bundles/bigbys/manifest.json","sku":"DCE-05401","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/bigbys.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Bigby's Hand Dice Set"}],"accessTypes":{"05401":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05400","rarity":0,"marketplaceUrl":"/marketplace/digital-dice/bigbys","marketingAvatarUrl":"https://images.dndbeyond.com/dice/images/covers/bigbys-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp","productBlurb":"<p>Use the power of Bigby's Hand to generate your fate! </p><p>•&nbsp;<strong>Critical Animation:</strong> See the hand toss the dice in celebration, or flick away a bad result!<br/>•&nbsp;<strong>Removal Animation:</strong> Bibgy's hand will come and clear the dice away after your rolls!<br/>•&nbsp;<strong>Ambient Animation:</strong> The faces of these dice glow with giant runes which morph into numbers as you roll.</p>"},{"id":"055","familyId":"055","dateCreated":"2023-07-18T00:00:00","dateModified":"2023-07-18T13:26:14.9575902+00:00","name":"The Baldur's Gate 3 Set","description":"Gather your party before venturing forth with these Promotional Baldur's Gate 3 Dice!","sets":{"definitionData":[{"id":"05501","dateCreated":"2023-07-18T00:00:00","dateModified":"2023-07-18T13:26:14.9575934+00:00","name":"The Baldur's Gate 3 Set","manifestUrl":"/bundles/baldurs-gate/manifest.json","sku":"DCE-05501","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/baldurs-gate.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Baldur's Gate 3 Set"}],"accessTypes":{"05501":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05500","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"056","familyId":"056","dateCreated":"2023-08-15T00:00:00","dateModified":"2023-08-23T14:35:46.2691824+00:00","name":"The Dice of Many Things","description":"Roll your Fortune and see what the Dice decide with these dice inspired by the Deck of Many Things!","sets":{"definitionData":[{"id":"05601","dateCreated":"2023-08-15T00:00:00","dateModified":"2023-08-23T14:35:46.2691858+00:00","name":"Cards","manifestUrl":"/bundles/dice-of-many-things/cards/manifest.json","sku":"DCE-05601","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/dice-of-many-things-cards.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Dice of Many Things: Cards"},{"id":"05602","dateCreated":"2023-08-15T00:00:00","dateModified":"2023-08-23T14:35:46.2691863+00:00","name":"No Cards","manifestUrl":"/bundles/dice-of-many-things/no-cards/manifest.json","sku":"DCE-05602","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/dice-of-many-things-no-cards.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"The Dice of Many Things: No Cards"}],"accessTypes":{"05601":4,"05602":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05600","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null},{"id":"057","familyId":"057","dateCreated":"2023-11-27T00:00:00","dateModified":"2023-11-27T20:38:56.8477948+00:00","name":"Red Dragon Dice","description":"Let the terrifying red dragon roll on to your character sheets with these amazing dice.","sets":{"definitionData":[{"id":"05701","dateCreated":"2023-11-27T00:00:00","dateModified":"2023-11-27T20:38:56.847798+00:00","name":"Red Dragon Dice","manifestUrl":"/bundles/red-dragon/manifest.json","sku":"DCE-05701","avatarUrl":"https://images.dndbeyond.com/dice/images/avatars/red-dragon.png?width=113&height=113&fit=crop&quality=95&auto=webp","isReleased":true,"minDiceVersion":"8.0.1","fullName":"Red Dragon Dice"}],"accessTypes":{"05701":4}},"isReleased":true,"isFeatured":false,"sku":"DCE-05700","rarity":0,"marketplaceUrl":null,"marketingAvatarUrl":null,"productBlurb":null}]}
+{
+  "id": 0,
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": "001",
+      "familyId": "001",
+      "dateCreated": "2020-04-20T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1045647+00:00",
+      "name": "Basic Black",
+      "description": "Basic Black is the original dice set for D&D Beyond. Use this dice set for formal occasions, a night out on the town, or to impress someone with how understated and classy you are.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00101",
+            "dateCreated": "2020-04-20T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1045656+00:00",
+            "name": "Black",
+            "manifestUrl": "/bundles/basic/default.json",
+            "sku": "DCE-00101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/basic-black.jpg?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Basic Black: Black"
+          },
+          {
+            "id": "00102",
+            "dateCreated": "2020-04-20T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1045659+00:00",
+            "name": "Contrast Black",
+            "manifestUrl": "/bundles/basic/default-contrast.json",
+            "sku": "DCE-00102",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/basic-black-contrast.jpg?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Basic Black: Contrast Black"
+          }
+        ],
+        "accessTypes": { "00101": 1, "00102": 1 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00100",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "002",
+      "familyId": "002",
+      "dateCreated": "2020-05-07T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.3723602+00:00",
+      "name": "Old School",
+      "description": "This dice set has been used to kill mountains of monsters over the years. Legends say this set was originally used by Gary Gygax when he was crafting the original game. It has been given to you for being a subscriber and helping to test during the Digital Dice Alpha. Thank you.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00201",
+            "dateCreated": "2020-05-07T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.3723613+00:00",
+            "name": "Old School",
+            "manifestUrl": "/bundles/oldSchool/manifest-v2.json",
+            "sku": "DCE-00201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/old-school.jpg?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Old School"
+          }
+        ],
+        "accessTypes": { "00201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00200",
+      "rarity": 1,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "003",
+      "familyId": "003",
+      "dateCreated": "2020-05-19T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.2169441+00:00",
+      "name": "Pigment Pack",
+      "description": "Add a punch of color to your attack rolls with the entire Pigment Pack or handpick a few of your favorite colors to grow your dice collection.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00301",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169449+00:00",
+            "name": "Brown",
+            "manifestUrl": "/bundles/plastic/00301-brown.json",
+            "sku": "DCE-00301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-brown.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Brown"
+          },
+          {
+            "id": "00302",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169452+00:00",
+            "name": "Orange",
+            "manifestUrl": "/bundles/plastic/00302-orange.json",
+            "sku": "DCE-00302",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-orange.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Orange"
+          },
+          {
+            "id": "00303",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169454+00:00",
+            "name": "Green",
+            "manifestUrl": "/bundles/plastic/00303-green.json",
+            "sku": "DCE-00303",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-green.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Green"
+          },
+          {
+            "id": "00304",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169457+00:00",
+            "name": "Purple",
+            "manifestUrl": "/bundles/plastic/00304-purple.json",
+            "sku": "DCE-00304",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-purple.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Purple"
+          },
+          {
+            "id": "00305",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.216946+00:00",
+            "name": "Red",
+            "manifestUrl": "/bundles/plastic/00305-red.json",
+            "sku": "DCE-00305",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-red.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Red"
+          },
+          {
+            "id": "00306",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169462+00:00",
+            "name": "Yellow",
+            "manifestUrl": "/bundles/plastic/00306-yellow.json",
+            "sku": "DCE-00306",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-yellow.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Yellow"
+          },
+          {
+            "id": "00307",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169465+00:00",
+            "name": "Blue",
+            "manifestUrl": "/bundles/plastic/00307-blue.json",
+            "sku": "DCE-00307",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-blue.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: Blue"
+          },
+          {
+            "id": "00308",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2169467+00:00",
+            "name": "White",
+            "manifestUrl": "/bundles/plastic/00308-white.json",
+            "sku": "DCE-00308",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pigment-white.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Pigment Pack: White"
+          }
+        ],
+        "accessTypes": {
+          "00301": 4,
+          "00302": 4,
+          "00303": 4,
+          "00304": 4,
+          "00305": 4,
+          "00306": 4,
+          "00307": 4,
+          "00308": 4
+        }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00300",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/pigment-pack",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/pigment-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>This pack includes Blue, Brown, Green, Orange, Purple, Red, White, and Yellow.</p><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply credit to the full pack if you choose to complete your collection in the future.</p>"
+    },
+    {
+      "id": "004",
+      "familyId": "004",
+      "dateCreated": "2020-05-19T00:00:00",
+      "dateModified": "2023-05-22T15:25:08.8836819+00:00",
+      "name": "Mythic Dice Set",
+      "description": "Roll your destiny to battle the gods. Triumph over your enemies and mark your place among the stars with the Mythic Dice Set.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00401",
+            "dateCreated": "2020-05-19T00:00:00",
+            "dateModified": "2023-05-22T15:25:08.8836858+00:00",
+            "name": "Mythic Dice Set",
+            "manifestUrl": "/bundles/mythic/manifest-v3.json",
+            "sku": "DCE-00401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/mythic.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Mythic Dice Set"
+          }
+        ],
+        "accessTypes": { "00401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00400",
+      "rarity": 2,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "005",
+      "familyId": "005",
+      "dateCreated": "2020-06-02T00:00:00",
+      "dateModified": "2023-05-22T15:25:19.8854024+00:00",
+      "name": "Archmage's Favor",
+      "description": "Obtained from the tower of a powerful magic user, these animated digital dice allow you to manipulate your fate. Just don't expect them to always roll in your favor.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00501",
+            "dateCreated": "2020-06-02T00:00:00",
+            "dateModified": "2023-05-22T15:25:19.8854036+00:00",
+            "name": "Archmage's Favor",
+            "manifestUrl": "/bundles/archmage/manifest.json",
+            "sku": "DCE-00501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/archmage.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Archmage's Favor"
+          }
+        ],
+        "accessTypes": { "00501": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00500",
+      "rarity": 1,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "007",
+      "familyId": "007",
+      "dateCreated": "2020-06-15T00:00:00",
+      "dateModified": "2022-06-15T16:36:47.8219115+00:00",
+      "name": "Glacial Dice Set",
+      "description": "We sent a team of experts the world over to find the best ice from which to carve this dice set. After months of searching, they found a glacier that had been forming for thousands of years in the coldest part of the world. So cold that you needn't worry about them melting.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00701",
+            "dateCreated": "2020-06-15T00:00:00",
+            "dateModified": "2022-06-15T16:36:47.8219123+00:00",
+            "name": "Glacial Dice Set",
+            "manifestUrl": "/bundles/glacial/manifest-v2.json",
+            "sku": "DCE-00701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/glacial.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Glacial Dice Set"
+          }
+        ],
+        "accessTypes": { "00701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00700",
+      "rarity": 1,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/glacial-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>Glacial Dice!</p>"
+    },
+    {
+      "id": "008",
+      "familyId": "008",
+      "dateCreated": "2020-07-08T00:00:00",
+      "dateModified": "2022-09-08T18:36:04.7916547+00:00",
+      "name": "Blacksmith's Dice Pack",
+      "description": "These dice were handcrafted by blacksmiths from the highest quality 64-bit metals so you can feel the weight of your rolls. Let your characters shine with one or more of these digital dice sets.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00801",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.791656+00:00",
+            "name": "Bronze",
+            "manifestUrl": "/bundles/blacksmith/bronze/manifest-v2.json",
+            "sku": "DCE-00801",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-bronze.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Bronze"
+          },
+          {
+            "id": "00802",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916563+00:00",
+            "name": "Copper",
+            "manifestUrl": "/bundles/blacksmith/copper/manifest-v2.json",
+            "sku": "DCE-00802",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-copper.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Copper"
+          },
+          {
+            "id": "00803",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916566+00:00",
+            "name": "Damascus Steel",
+            "manifestUrl": "/bundles/blacksmith/damascus/manifest-v2.json",
+            "sku": "DCE-00803",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-damascus.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Damascus Steel"
+          },
+          {
+            "id": "00804",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916568+00:00",
+            "name": "Electrum",
+            "manifestUrl": "/bundles/blacksmith/electrum/manifest-v2.json",
+            "sku": "DCE-00804",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-electrum.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Electrum"
+          },
+          {
+            "id": "00805",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916572+00:00",
+            "name": "Gold",
+            "manifestUrl": "/bundles/blacksmith/gold/manifest-v2.json",
+            "sku": "DCE-00805",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-gold.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Gold"
+          },
+          {
+            "id": "00806",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916574+00:00",
+            "name": "Iron",
+            "manifestUrl": "/bundles/blacksmith/iron/manifest-v2.json",
+            "sku": "DCE-00806",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-iron.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Iron"
+          },
+          {
+            "id": "00807",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916576+00:00",
+            "name": "Platinum",
+            "manifestUrl": "/bundles/blacksmith/platinum/manifest-v2.json",
+            "sku": "DCE-00807",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-platinum.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Platinum"
+          },
+          {
+            "id": "00808",
+            "dateCreated": "2020-07-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:04.7916578+00:00",
+            "name": "Silver",
+            "manifestUrl": "/bundles/blacksmith/silver/manifest-v2.json",
+            "sku": "DCE-00808",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/blacksmith-silver.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Blacksmith's Dice Pack: Silver"
+          }
+        ],
+        "accessTypes": {
+          "00801": 4,
+          "00802": 4,
+          "00803": 4,
+          "00804": 4,
+          "00805": 4,
+          "00806": 4,
+          "00807": 4,
+          "00808": 4
+        }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00800",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/blacksmiths-dice-pack",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/blacksmith-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mduAMZZrQcU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The pack includes 8 digital dice sets forged from Bronze, Copper, Damascus Steel, Electrum, Gold, Iron, Platinum, and Silver.</p><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p><p>Get the essential D&D collection:<br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=phb\">Player’s Handbook</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=dmg\">Dungeon Masters Guide</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/monster-manual?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=mm\">Monster Manual</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/xanathars-guide-to-everything?icid_source=bsdicemp&icid_medium=crosspromo&icid_campaign=xgte\">Xanathar’s Guide To Everything</a><br/></p>"
+    },
+    {
+      "id": "009",
+      "familyId": "009",
+      "dateCreated": "2020-07-29T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.2077384+00:00",
+      "name": "Dice of Healing",
+      "description": "Our alchemists have brewed, bottled, and balanced this Dice of Healing set to always roll true and keep you safe during your epic adventures.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "00901",
+            "dateCreated": "2020-07-29T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2077391+00:00",
+            "name": "Dice of Healing",
+            "manifestUrl": "/bundles/healing/manifest-v2.json",
+            "sku": "DCE-00901",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/healing.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Dice of Healing"
+          }
+        ],
+        "accessTypes": { "00901": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-00900",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "010",
+      "familyId": "010",
+      "dateCreated": "2020-08-25T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1389929+00:00",
+      "name": "Icewind Dale: Rime of the Frostmaiden Dice Set",
+      "description": "Made for navigating the treacherous tundra of the frozen north, this digital dice set has a physical companion set which can be purchased anywhere D&D books are sold.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01001",
+            "dateCreated": "2020-08-25T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1389936+00:00",
+            "name": "Icewind Dale: Rime of the Frostmaiden Dice Set",
+            "manifestUrl": "/bundles/frostmaiden/manifest-v2.json",
+            "sku": "DCE-01001",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/frostmaiden.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Icewind Dale: Rime of the Frostmaiden Dice Set"
+          }
+        ],
+        "accessTypes": { "01001": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01000",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "011",
+      "familyId": "011",
+      "dateCreated": "2020-08-24T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.4778984+00:00",
+      "name": "Cauldron Dice Set",
+      "description": "Conjured from curious components, these colorfully cracked dice create complex combinations as they clamber across your character sheet.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01101",
+            "dateCreated": "2020-08-24T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.4778992+00:00",
+            "name": "Cauldron Dice Set",
+            "manifestUrl": "/bundles/cauldron/manifest-v2.json",
+            "sku": "DCE-01101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/cauldron.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Cauldron Dice Set"
+          }
+        ],
+        "accessTypes": { "01101": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01100",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "012",
+      "familyId": "012",
+      "dateCreated": "2020-09-11T00:00:00",
+      "dateModified": "2023-05-22T16:19:27.50184+00:00",
+      "name": "The Everlasting Rime",
+      "description": "Beware! Covered in shards of ice, this digital dice set only thaws to reveal the success of your roll or betray the secret you hold close.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01201",
+            "dateCreated": "2020-09-11T00:00:00",
+            "dateModified": "2023-05-22T16:19:27.5018446+00:00",
+            "name": "The Everlasting Rime",
+            "manifestUrl": "/bundles/rime/manifest.json",
+            "sku": "DCE-01201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/rime.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "The Everlasting Rime"
+          }
+        ],
+        "accessTypes": { "01201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01200",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/everlasting-rime",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/everlasting-rime-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xR4D8dAO_Zw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Beware! The frozen tundra, from which these dice call home, brings harsh blizzards and unyielding temperatures. Be careful when rolling, the spikes are frozen solid and will freeze your blood.</p><p>The proceeds from this dice set will go support the work at <a href=\"https://www.extra-life.org/index.cfm?fuseaction=cms.page&id=1306\" target=\"_blank\">Extra Life</a>.</p><p style=\"width:600px;margin:16px auto\"><a href=\"https://www.extra-life.org/index.cfm?fuseaction=cms.page&id=1306\" target=\"_blank\"><img width=\"600\" height=\"300\" src=\"https://www.dndbeyond.com/dice/mktg/AdventEverlasting%20Rime-600x300.png\"></a></p><p>•&nbsp;<strong>Critical Animation:</strong> When the dice drop to 20, unleash winter's wrath as she claims your success in the chaos of the blizzard.<br/>•&nbsp;<strong>Removal Animation:</strong>The dice fade as a snowstorm blows over them.<br/>•&nbsp;<strong>Unique Sounds:</strong>Raging winds from the frozen north emerge from the depths of the dice.<br/>•&nbsp;<strong>Special Reveal:</strong> These dice are covered in a thick layer of ice that reveals the number of your roll when they land.</p>"
+    },
+    {
+      "id": "013",
+      "familyId": "013",
+      "dateCreated": "2020-12-08T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1245897+00:00",
+      "name": "Gift-Wrapped Dice Set",
+      "description": "Please enjoy this-gift-wrapped dice set as a thank you for giving the gift of D&D Beyond.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01301",
+            "dateCreated": "2020-12-08T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1245905+00:00",
+            "name": "Gift-Wrapped Dice Set",
+            "manifestUrl": "/bundles/gift-wrapped/manifest.json",
+            "sku": "DCE-01301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gift-wrapped.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "3.2.3",
+            "fullName": "Gift-Wrapped Dice Set"
+          }
+        ],
+        "accessTypes": { "01301": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01300",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "014",
+      "familyId": "014",
+      "dateCreated": "2021-02-24T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.2590793+00:00",
+      "name": "Researcher's Dice Set",
+      "description": "Upon entry to the massive library, you were given this dice set. Use them wisely. Rolling could unravel the mysteries of the planes.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01401",
+            "dateCreated": "2021-02-24T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.2590801+00:00",
+            "name": "Researcher's Dice Set",
+            "manifestUrl": "/bundles/researchers/manifest.json",
+            "sku": "DCE-01401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/researchers.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Researcher's Dice Set"
+          }
+        ],
+        "accessTypes": { "01401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01400",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "015",
+      "familyId": "015",
+      "dateCreated": "2021-02-24T00:00:00",
+      "dateModified": "2022-06-15T16:36:47.7877031+00:00",
+      "name": "Memento Mori",
+      "description": "Remain vigilant. The grave consequences of your roll will spread as the stones come to their final resting place.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01501",
+            "dateCreated": "2021-02-24T00:00:00",
+            "dateModified": "2022-06-15T16:36:47.7877067+00:00",
+            "name": "Memento Mori",
+            "manifestUrl": "/bundles/memento-mori/manifest.json",
+            "sku": "DCE-01501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/memento-mori.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Memento Mori"
+          }
+        ],
+        "accessTypes": { "01501": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01500",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "016",
+      "familyId": "016",
+      "dateCreated": "2021-05-24T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.4678312+00:00",
+      "name": "Sanguine Dice Set",
+      "description": "Are you the horror, or the hunter? Your fate is a heartbeat away.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01601",
+            "dateCreated": "2021-05-24T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.4678318+00:00",
+            "name": "Sanguine Dice Set",
+            "manifestUrl": "/bundles/sanguine/manifest.json",
+            "sku": "DCE-01601",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/sanguine.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Sanguine Dice Set"
+          }
+        ],
+        "accessTypes": { "01601": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01600",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "017",
+      "familyId": "017",
+      "dateCreated": "2021-08-17T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.327439+00:00",
+      "name": "Dice of Heroism",
+      "description": "It takes more than a liquid to be a hero, but even heroes need help sometimes. Keep this dice set close and it will give you that boost of confidence when times are tough.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01701",
+            "dateCreated": "2021-08-17T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.32744+00:00",
+            "name": "Dice of Heroism",
+            "manifestUrl": "/bundles/heroism/manifest.json",
+            "sku": "DCE-01701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/heroism.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Dice of Heroism"
+          }
+        ],
+        "accessTypes": { "01701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01700",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": "<ul><li><em>Ambient Animation:</em> The blue liquid in this bottle boils with untapped potential.</li><li><em>Removal Animation:</em> After the roll, the bottle and it's contents magically evaporate.</li><li><em>Unique Sounds:</em> As the dice roll, hear the liquid splash in these special unbreakable glass bottles.</li></ul>"
+    },
+    {
+      "id": "018",
+      "familyId": "018",
+      "dateCreated": "2021-08-17T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1581744+00:00",
+      "name": "Beyond Dice Set",
+      "description": "We at D&D Beyond believe D&D is for everyone and we are committed to making it easy to play. We can't do it without you. Please accept this digital dice set as a thank you for being a D&D Beyond user.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01801",
+            "dateCreated": "2021-08-17T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1581752+00:00",
+            "name": "Beyond Dice Set",
+            "manifestUrl": "/bundles/beyond/manifest.json",
+            "sku": "DCE-01801",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/beyond.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Beyond Dice Set"
+          }
+        ],
+        "accessTypes": { "01801": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01800",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "019",
+      "familyId": "019",
+      "dateCreated": "2021-08-31T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.4402374+00:00",
+      "name": "Ringmaster's Dice Set",
+      "description": "Step right up and roll the most amazing, magical, mystifying, death-defying, never-before-seen oddities from antiquity. This fortune-telling dice set is guaranteed to give you a number and take you wherever you were going. What you do with that number when you get there is up to you! The possibilities are endless.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "01901",
+            "dateCreated": "2021-08-31T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.4402383+00:00",
+            "name": "Ringmaster's Dice Set",
+            "manifestUrl": "/bundles/ringmaster/manifest.json",
+            "sku": "DCE-01901",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/ringmaster.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Ringmaster's Dice Set"
+          }
+        ],
+        "accessTypes": { "01901": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-01900",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "020",
+      "familyId": "020",
+      "dateCreated": "2021-10-08T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1774136+00:00",
+      "name": "Dragon Eggs",
+      "description": "These eggs are HOT. Use with caution. You never know what could hatch.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02001",
+            "dateCreated": "2021-10-08T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1774144+00:00",
+            "name": "Dragon Eggs",
+            "manifestUrl": "/bundles/dragon-eggs/manifest.json",
+            "sku": "DCE-02001",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/dragon-eggs.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Dragon Eggs"
+          }
+        ],
+        "accessTypes": { "02001": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02000",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "021",
+      "familyId": "021",
+      "dateCreated": "2021-10-08T00:00:00",
+      "dateModified": "2022-09-08T18:36:24.3720495+00:00",
+      "name": "Elder Heart",
+      "description": "Deep at the center of the forest lives a being of crystalized wild magic, offering tokens of chance. You can't recall the terms of the bargain you struck, but you feel the danger with every roll.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02101",
+            "dateCreated": "2021-10-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:24.3720525+00:00",
+            "name": "Elder Heart",
+            "manifestUrl": "/bundles/elder-heart/manifest.json",
+            "sku": "DCE-02101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/elder-heart.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Elder Heart"
+          }
+        ],
+        "accessTypes": { "02101": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02100",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/elder-heart",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/elder-heart-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/TPIIrDIB9SQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p><span>•&nbsp;<strong>Critical Animation: </strong>Beautiful botanicals bloom when you roll a critical hit<br/></span><span>•&nbsp;<strong>Removal Animation: </strong>Each roll is carried away by fireflies<br/></span><span>•&nbsp;<strong>Unique Sounds: </strong>Soft, delicate melodies play when you roll these gems<br/></span></p><p>Perfect for druids, rangers, Oath of the Ancients paladins, and any character with a deep connection to the wild places of the world.</p><p>Get the campaign to match your dice with <a href=\"https://www.dndbeyond.com/marketplace/adventures/the-wild-beyond-the-witchlight\">The Wild Beyond the Witchlight</a></p><p>Get the essential D&D collection:<br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/players-handbook?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=phb\">Player’s Handbook</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/dungeon-masters-guide?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=dmg\">Dungeon Masters Guide</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/monster-manual?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=mm\">Monster Manual</a><br/>- <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/xanathars-guide-to-everything?icid_source=afdicemp&icid_medium=crosspromo&icid_campaign=xgte\">Xanathar’s Guide To Everything</a><br/></p>"
+    },
+    {
+      "id": "022",
+      "familyId": "022",
+      "dateCreated": "2021-10-08T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.0925324+00:00",
+      "name": "Scholar's Dice Set",
+      "description": "Upon acceptance to the university, all students learn magic but only a few rise to the highest level, receiving a runic dice set to use during their studies. Congratulations, this dice set is yours.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02201",
+            "dateCreated": "2021-10-08T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.0925332+00:00",
+            "name": "Scholar's Dice Set",
+            "manifestUrl": "/bundles/scholar/manifest.json",
+            "sku": "DCE-02201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/scholar.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Scholar's Dice Set"
+          }
+        ],
+        "accessTypes": { "02201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02200",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "023",
+      "familyId": "023",
+      "dateCreated": "2021-10-22T00:00:00",
+      "dateModified": "2022-09-08T18:36:31.9871756+00:00",
+      "name": "Battle for Beyond Dice Pack",
+      "description": "These dice were forged to commemorate the legendary competitors of an elusive and infamous competition. Let your characters channel their mythical deeds with one or more of these digital dice sets.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02301",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.9871771+00:00",
+            "name": "Ekon",
+            "manifestUrl": "/bundles/battle-for-beyond/ekon/manifest.json",
+            "sku": "DCE-02301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-ekon.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Ekon"
+          },
+          {
+            "id": "02302",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.9871776+00:00",
+            "name": "Leila",
+            "manifestUrl": "/bundles/battle-for-beyond/leila/manifest.json",
+            "sku": "DCE-02302",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-leila.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Leila"
+          },
+          {
+            "id": "02303",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.987178+00:00",
+            "name": "Lenore",
+            "manifestUrl": "/bundles/battle-for-beyond/lenore/manifest.json",
+            "sku": "DCE-02303",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-lenore.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Lenore"
+          },
+          {
+            "id": "02304",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.9871784+00:00",
+            "name": "Murdina",
+            "manifestUrl": "/bundles/battle-for-beyond/murdina/manifest.json",
+            "sku": "DCE-02304",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-murdina.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Murdina"
+          },
+          {
+            "id": "02305",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.9871794+00:00",
+            "name": "Nikhil",
+            "manifestUrl": "/bundles/battle-for-beyond/nikhil/manifest.json",
+            "sku": "DCE-02305",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-nikhil.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Nikhil"
+          },
+          {
+            "id": "02306",
+            "dateCreated": "2021-10-22T00:00:00",
+            "dateModified": "2022-09-08T18:36:31.9871797+00:00",
+            "name": "Sestia",
+            "manifestUrl": "/bundles/battle-for-beyond/sestia/manifest.json",
+            "sku": "DCE-02306",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/battle-for-beyond-sestia.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "4.1.1",
+            "fullName": "Battle for Beyond Dice Pack: Sestia"
+          }
+        ],
+        "accessTypes": {
+          "02301": 4,
+          "02302": 4,
+          "02303": 4,
+          "02304": 4,
+          "02305": 4,
+          "02306": 4
+        }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02300",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/battle-for-beyond",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/battle-for-beyond-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/R0oQkPQ4_A8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p>"
+    },
+    {
+      "id": "024",
+      "familyId": "024",
+      "dateCreated": "2021-10-08T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.3897835+00:00",
+      "name": "Fuzzy Dice Set",
+      "description": "Hang these dice from your rear view mirror as a reminder to always look forward and never look back.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02401",
+            "dateCreated": "2021-10-08T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.3897844+00:00",
+            "name": "Fuzzy Dice Set",
+            "manifestUrl": "/bundles/fuzzy/manifest.json",
+            "sku": "DCE-02401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/fuzzy.jpg?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Fuzzy Dice Set"
+          }
+        ],
+        "accessTypes": { "02401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02400",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "025",
+      "familyId": "025",
+      "dateCreated": "2021-10-08T00:00:00",
+      "dateModified": "2022-09-08T18:36:44.2924654+00:00",
+      "name": "Dice of Enlightenment",
+      "description": "In seeking the path to enlightenment, you discovered these artifacts glowing with the promise of knowledge. You're not sure if they'll help you uncover hidden truths, but each roll offers that chance.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02501",
+            "dateCreated": "2021-10-08T00:00:00",
+            "dateModified": "2022-09-08T18:36:44.2924665+00:00",
+            "name": "Dice of Enlightenment",
+            "manifestUrl": "/bundles/cathedral/manifest.json",
+            "sku": "DCE-02501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/cathedral.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Dice of Enlightenment"
+          }
+        ],
+        "accessTypes": { "02501": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02500",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/dice-of-enlightenment",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/enlightenment-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EHQjwdZtYHs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> Magical knowledge breaks through the arched windows when the roller hits a 20.<br/>•&nbsp;<strong>Removal Animation:</strong> The dice crumble into ruins after the roll has been made.<br/>•&nbsp;<strong>Unique Sounds:</strong> Tower bells sound every time a roll is made."
+    },
+    {
+      "id": "026",
+      "familyId": "026",
+      "dateCreated": "2022-01-21T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.0696116+00:00",
+      "name": "Astral Dice Set",
+      "description": "Your dice reflect a distant, far-off world that feels completely alien to you. As you roll them, stars and strange-colored clouds shift to reveal a window into the astral plane.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02601",
+            "dateCreated": "2022-01-21T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.0696129+00:00",
+            "name": "Astral Dice Set",
+            "manifestUrl": "/bundles/astral/manifest.json",
+            "sku": "DCE-02601",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/astral.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Astral Dice Set"
+          }
+        ],
+        "accessTypes": { "02601": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02600",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "027",
+      "familyId": "027",
+      "dateCreated": "2022-03-07T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.1988728+00:00",
+      "name": "Masterwork Dice Set",
+      "description": "In front of you sits an intricately made dice set found in the most exclusive and luxurious bazaar. A circular red jewel catches your attention, reminding you of the red moon.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02701",
+            "dateCreated": "2022-03-07T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.1988736+00:00",
+            "name": "Masterwork Dice Set",
+            "manifestUrl": "/bundles/masterwork/manifest.json",
+            "sku": "DCE-02701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/masterwork.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Masterwork Dice Set"
+          }
+        ],
+        "accessTypes": { "02701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02700",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "028",
+      "familyId": "028",
+      "dateCreated": "2022-03-31T00:00:00",
+      "dateModified": "2023-11-07T19:29:23.8410342+00:00",
+      "name": "Call of the Corrupted Dice Set",
+      "description": "An alien mineral imbues its twisted energy into these marble dice, bringing knowledge and the chance of corruption with every roll. Will you listen to its call?",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02801",
+            "dateCreated": "2022-03-31T00:00:00",
+            "dateModified": "2023-11-07T19:29:23.8410356+00:00",
+            "name": "Call of the Corrupted Dice Set",
+            "manifestUrl": "/bundles/corrupted/manifest.json",
+            "sku": "DCE-02801",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/corrupted.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "5.0.3",
+            "fullName": "Call of the Corrupted Dice Set"
+          }
+        ],
+        "accessTypes": { "02801": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02800",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/corrupted",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/corrupted-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/WFxHDCi6yVY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> Terrifying energy corrupts your dice when you roll a natural 20.<br/>•&nbsp;<strong>Removal Animation:</strong> The stone dice crumbles away after your roll.<br/>•&nbsp;<strong>Unique Sounds:</strong> The marble material click and clack with your dice roll but when you hit a natural 20, beware of the rampaging roar.<br/>Get the campaign to match your dice with <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/critical-role-call-of-the-netherdeep?icid_source=corrupted&icid_medium=crosspromo&icid_campaign=moot\">Critical Role: Call of the Netherdeep</a>"
+    },
+    {
+      "id": "029",
+      "familyId": "029",
+      "dateCreated": "2022-05-02T00:00:00",
+      "dateModified": "2022-09-08T18:37:02.3884726+00:00",
+      "name": "Jasper's Dice Set",
+      "description": "This digital dice set is dedicated to the memory of a dear friend, in whose honor Fenway Jones founded the charity Jasper's Game Day. The proceeds from this dice set will go to support the Jasper's Game Day mission of suicide prevention and awareness.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "02901",
+            "dateCreated": "2022-05-02T00:00:00",
+            "dateModified": "2022-09-08T18:37:02.3884743+00:00",
+            "name": "Jasper's Dice Set",
+            "manifestUrl": "/bundles/jasper/manifest.json",
+            "sku": "DCE-02901",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/jasper.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "6.0.19",
+            "fullName": "Jasper's Dice Set"
+          }
+        ],
+        "accessTypes": { "02901": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-02900",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/jasper",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/jasper-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ZsRFMQ2nGCQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>&nbsp;<p>This set was based on the design by <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dieharddice.com/\">Die Hard Dice</a> for Jasper's Game Week 2022. Purchase the <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dieharddice.com/products/7-piece-rpg-set-jaspers-game-day-2022\">physical dice set</a> to match!</p><p>As a 501(c)(3) nonprofit organization, <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://jaspersgameday.com/\">Jasper's Game Day</a> has a mission to raise funds for suicide prevention and awareness. Through this, they strive to reduce the stigma around talking about mental health so the world can start to treat it just like physical health. In reducing the stigma around mental health, they want to be able to help prevent suicide, and not just respond to the aftermath. They want to bring the community together and show everyone that they are not alone!</p><p>\"We have a clear mission, and with luck on our side, every roll is a 20 and no 1 is left behind.\" - Jasper's Game Day</p><p>To that end, when a natural 1 is rolled on this digital dice set, a magical phoenix emerges through the flames and soars to new heights.</p>"
+    },
+    {
+      "id": "030",
+      "familyId": "030",
+      "dateCreated": "2022-05-02T00:00:00",
+      "dateModified": "2023-11-07T19:29:15.7782911+00:00",
+      "name": "Dice of Planar Summoning",
+      "description": "Sparkling with the musings of the wizard Mordenkainen, these dice feature a host of creatures from the multiverse. Before you roll them, be ready for anything.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03001",
+            "dateCreated": "2022-05-02T00:00:00",
+            "dateModified": "2023-11-07T19:29:15.7782925+00:00",
+            "name": "Dice of Planar Summoning",
+            "manifestUrl": "/bundles/planar/manifest.json",
+            "sku": "DCE-03001",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/planar.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "6.0.19",
+            "fullName": "Dice of Planar Summoning"
+          }
+        ],
+        "accessTypes": { "03001": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03000",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/planar",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/planar-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9oqpLYVrBuQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>•&nbsp;<strong>Critical Animation:</strong> A portal opens to reveal a Kirin, Marut, or a Flail Snail at random.<br/>•&nbsp;<strong>Removal Animation:</strong> A portal opens to reveal a Nightwalker, Elder Brain, or an Astral Dreadnaught.<br/>•&nbsp;<strong>Unique Sounds:</strong> Each creature makes a unique sound as it comes through the portal. Watch as the portal closes and the dice are removed from the screen.<br/>Get the book to match your dice with <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/mordenkainen-presents-monsters-of-the-multiverse?icid_source=planar\">Mordenkainen Presents: Monsters of the Multiverse</a>"
+    },
+    {
+      "id": "031",
+      "familyId": "031",
+      "dateCreated": "2022-05-27T00:00:00",
+      "dateModified": "2023-11-07T19:28:48.7238343+00:00",
+      "name": "Dice of Vecna",
+      "description": "Necromantic magic flows through this corrupted artifact. You claimed this dice set at great personal cost and your ambition has drawn the ire of Vecna the Undying King.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03101",
+            "dateCreated": "2022-05-27T00:00:00",
+            "dateModified": "2023-11-07T19:28:48.7238355+00:00",
+            "name": "Dice of Vecna",
+            "manifestUrl": "/bundles/vecna/manifest.json",
+            "sku": "DCE-03101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/vecna.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Dice of Vecna"
+          }
+        ],
+        "accessTypes": { "03101": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03100",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/vecna",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/vecna-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GiCD_jwmvXI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The cruel lich Vecna was once betrayed by his personal guard and lost his left eye for it.</p><p>Now you can roll with the cursed Eye of Vecna. Watch as the eye tumbles across your character sheet with the clang of the metal bands that protect it and hear the cursed magic as it teleports away. But beware, Vecna is watching your every move...</p><p>•&nbsp;<strong>d20 Animation:</strong> Roll the Eye of Vecna and see the number in the pupil as it focuses on you.<br/>•&nbsp;<strong>Removal Animation:</strong> After the dice have been rolled, they disappear with the haunting melody of forbidden magic.<br/>•&nbsp;<strong>Unique Sounds:</strong> When rolled, hear the clinking sounds of metallic bands holding the decaying dice together.</p><p>Read the Vecna Dossier for a full profile on Vecna himself! <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/claim/source/vecna?icid_source=vecna\">The Vecna Dossier</a></p>"
+    },
+    {
+      "id": "032",
+      "familyId": "032",
+      "dateCreated": "2022-06-01T00:00:00",
+      "dateModified": "2022-06-15T16:36:48.4583342+00:00",
+      "name": "Dice of True Color",
+      "description": "This digital dice set was hewn from geodes formed under intense heat and pressure. Inside, you’ll find gleaming colors that delight.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03201",
+            "dateCreated": "2022-06-01T00:00:00",
+            "dateModified": "2022-06-15T16:36:48.4583349+00:00",
+            "name": "Dice of True Color",
+            "manifestUrl": "/bundles/pride/manifest.json",
+            "sku": "DCE-03201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/pride.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "6.0.19",
+            "fullName": "Dice of True Color"
+          }
+        ],
+        "accessTypes": { "03201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03200",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": "<strong>Roll with pride</strong><br/>Tabletop roleplaying games can serve as a sanctuary for players and as an avenue through which we can discover what makes us uniquely amazing. To celebrate Pride Month, D&D Beyond is offering the Dice of True Color to all account holders.<br/>Created by Lee Emig, this digital dice set was hewn from geodes formed under intense heat and pressure. Inside, you’ll find gleaming colors that delight.<br/><em>In the United States, Pride Month takes place each year during June and celebrates the LGBTQ+ community. It commemorates the 1969 Stonewall Uprising in Manhattan that served as a catalyst for the gay rights movement.</em>"
+    },
+    {
+      "id": "033",
+      "familyId": "033",
+      "dateCreated": "2022-06-09T00:00:00",
+      "dateModified": "2022-06-28T18:31:05.9417997+00:00",
+      "name": "Concord Jewel Dice Set",
+      "description": "These dice were roughly hewn from a long-lost Concord Jewel. Roll them and see where they take you.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03301",
+            "dateCreated": "2022-06-09T00:00:00",
+            "dateModified": "2022-06-28T18:31:05.9418035+00:00",
+            "name": "Concord Jewel Dice Set",
+            "manifestUrl": "/bundles/concord/manifest.json",
+            "sku": "DCE-03301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/concord.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Concord Jewel Dice Set"
+          }
+        ],
+        "accessTypes": { "03301": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03300",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "034",
+      "familyId": "034",
+      "dateCreated": "2022-06-21T00:00:00",
+      "dateModified": "2022-06-28T20:06:00.1666944+00:00",
+      "name": "Clockwork Dice Set",
+      "description": "Tiny interlocking gears connect inside a bronze framework to create perfect polyhedrals.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03401",
+            "dateCreated": "2022-06-21T00:00:00",
+            "dateModified": "2022-06-28T20:06:00.1666979+00:00",
+            "name": "Clockwork Dice Set",
+            "manifestUrl": "/bundles/clockwork/manifest.json",
+            "sku": "DCE-03401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/clockwork.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Clockwork Dice Set"
+          }
+        ],
+        "accessTypes": { "03401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03400",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "035",
+      "familyId": "035",
+      "dateCreated": "2022-07-12T00:00:00",
+      "dateModified": "2022-09-08T18:37:26.4371842+00:00",
+      "name": "Dice of the Dawn Incarnates",
+      "description": "Now you can harness the power of benevolent spirits known as Dawn Incarnates. Made from amethyst, these dice impart wisdom to the worthy.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03501",
+            "dateCreated": "2022-07-12T00:00:00",
+            "dateModified": "2022-09-08T18:37:26.4371854+00:00",
+            "name": "Dice of the Dawn Incarnates",
+            "manifestUrl": "/bundles/dawn-incarnates/manifest.json",
+            "sku": "DCE-03501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/dawn-incarnates.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Dice of the Dawn Incarnates"
+          }
+        ],
+        "accessTypes": { "03501": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03500",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/dawn-incarnates",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/dawn-incarnates-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/cY7bMRQ8fDM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Dawn Incarnates are spirits that preserve the storied history of civilizations. For your good deeds across the multiverse, you have been granted not only an audience with the Dawn Incarnates but also a modicum of their power.</p><p>•&nbsp;<strong>Critical Animation:</strong> Gem shards spin to conjure one of three Dawn Incarnates! Keep rolling to find each one!<br/>•&nbsp;<strong>Removal Animation:</strong> Once your fate has been decided, watch as the dice teleport away in a flash of light.<br/>•&nbsp;<strong>Unique Sounds:</strong> These amethyst dice clink across your character sheet before displaying your roll in a glowing white text.</p><p>Learn more about the Dawn Incarnates and where they reside in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/journeys-through-the-radiant-citadel?icid_medium=ddb&icid_source=marketplace&icid_campaign=dawn-incarnate-dice&icid_content=jttrc\">Journeys Through the Radiant Citadel</a>.</p>"
+    },
+    {
+      "id": "036",
+      "familyId": "036",
+      "dateCreated": "2022-07-22T00:00:00",
+      "dateModified": "2022-07-28T00:31:08.5582822+00:00",
+      "name": "Flourishing Dice Set",
+      "description": "To celebrate D&D Beyond’s fifth year anniversary, we sprouted a wooden dice set that pulses with magical energy when you roll a crit!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03601",
+            "dateCreated": "2022-07-22T00:00:00",
+            "dateModified": "2022-07-28T00:31:08.5582862+00:00",
+            "name": "Flourishing Dice Set",
+            "manifestUrl": "/bundles/flourishing/manifest.json",
+            "sku": "DCE-03601",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/flourishing.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Flourishing Dice Set"
+          }
+        ],
+        "accessTypes": { "03601": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03600",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "037",
+      "familyId": "037",
+      "dateCreated": "2022-07-28T00:00:00",
+      "dateModified": "2022-07-29T16:45:56.9438484+00:00",
+      "name": "The Space Guppy Dice Set",
+      "description": "These dice were fished out of Wildspace and gleam with colorful scales reminiscent of the alien fish that reside in the cosmos!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03701",
+            "dateCreated": "2022-07-28T00:00:00",
+            "dateModified": "2022-07-29T16:45:56.9438519+00:00",
+            "name": "The Space Guppy Dice Set",
+            "manifestUrl": "/bundles/space-guppy/manifest.json",
+            "sku": "DCE-03701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/space-guppy.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "The Space Guppy Dice Set"
+          }
+        ],
+        "accessTypes": { "03701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03700",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "038",
+      "familyId": "038",
+      "dateCreated": "2022-08-05T00:00:00",
+      "dateModified": "2022-11-22T16:57:15.2982853+00:00",
+      "name": "The Spelljammer’s Dice Set",
+      "description": "Journey into the cosmos and witness spelljamming ships and alien creatures as they encircle mystifying locations!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03801",
+            "dateCreated": "2022-08-05T00:00:00",
+            "dateModified": "2022-11-22T16:57:15.2982916+00:00",
+            "name": "The Spelljammer’s Dice Set",
+            "manifestUrl": "/bundles/spelljammer/manifest.json",
+            "sku": "DCE-03801",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/spelljammer.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Spelljammer’s Dice Set"
+          }
+        ],
+        "accessTypes": { "03801": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03800",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/spelljammer",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/spelljammer-cover.jpg?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9vw7lhcxddk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Take off on spelljamming adventures with these starry dice! Watch as they tumble across the cosmos to encounter curious ships, alien creatures such as space whales, and unique locations throughout Wildspace!</p><p>•&nbsp;<strong>Critical Animation:</strong> Spelljamming ships emerge to explore the asteroid city of Bral and other locations found throughout the multiverse. Discover nautiloid ships and other vessels and curious creatures found in Spelljammer.<br/>•&nbsp;<strong>Ambient Animation:</strong> These silvery dice glint with the distant stars of Wildspace.<br/>•&nbsp;<strong>Removal Animation:</strong> The dice cross into the Astral Sea with a flash of light!<br/>•&nbsp;<strong>Unique Sounds:</strong> The Spelljammer’s Dice Set tumble across your character sheet with the clank of metal.</p><p>The near-infinite cosmos await you in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/sourcebooks/spelljammer-adventures-in-space?icid_medium=ddb&icid_source=marketplace&icid_campaign=spelljammer-dice&icid_content=spelljammer\">Spelljammer: Adventures in Space</a>.</p>"
+    },
+    {
+      "id": "039",
+      "familyId": "039",
+      "dateCreated": "2022-11-01T00:00:00",
+      "dateModified": "2022-11-01T18:36:04.1509753+00:00",
+      "name": "Leather Armor Dice Set",
+      "description": "Cured, stitched, and reinforced, these armored dice are ready to roll on the battlefields of Krynn.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "03901",
+            "dateCreated": "2022-11-01T00:00:00",
+            "dateModified": "2022-11-01T18:36:04.1509765+00:00",
+            "name": "Leather Armor Dice Set",
+            "manifestUrl": "/bundles/leather/manifest.json",
+            "sku": "DCE-03901",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/leather.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "7.0.7",
+            "fullName": "Leather Armor Dice Set"
+          }
+        ],
+        "accessTypes": { "03901": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-03900",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "040",
+      "familyId": "040",
+      "dateCreated": "2022-11-01T00:00:00",
+      "dateModified": "2023-07-10T17:42:27.9586835+00:00",
+      "name": "The Treasure Hoard Dice Set",
+      "description": "You come upon a treasure chest of immaculate design. Crack it open and find out whether coin or gnashing teeth await you inside!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04001",
+            "dateCreated": "2022-11-01T00:00:00",
+            "dateModified": "2023-07-10T17:42:27.9586848+00:00",
+            "name": "The Treasure Hoard Dice Set",
+            "manifestUrl": "/bundles/treasure/manifest.json",
+            "sku": "DCE-04001",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/treasure.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Treasure Hoard Dice Set"
+          }
+        ],
+        "accessTypes": { "04001": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04000",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/treasure",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/treasure-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>Within every great dungeon lies riches — and traps! These dice contain both, but you won't know which fate has in store for you until you roll them!</p><p>•&nbsp;<strong>Critical Animation:</strong> These dice open to reveal gold and jewels when you roll a 20! On a 1, they open up to reveal the sharp teeth and swinging tongue of a mimic!<br/>•&nbsp;<strong>Ambient Animation:</strong> These dice are finely crafted treasure chests made of polished wood and metal — or are they?<br/>•&nbsp;<strong>Unique Sounds:</strong> Coins and jewels tumble within these dice. On occasion, the dice open up to the growls of a mimic!</p>"
+    },
+    {
+      "id": "041",
+      "familyId": "041",
+      "dateCreated": "2022-11-16T00:00:00",
+      "dateModified": "2023-07-25T16:04:53.4914347+00:00",
+      "name": "The Clash of Thorns Set",
+      "description": "Don these armored dice and face off against the Dragon Armies that threaten your world! But beware, for you may come face to face with the cruel Lord Soth!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04101",
+            "dateCreated": "2022-11-16T00:00:00",
+            "dateModified": "2023-07-25T16:04:53.4914381+00:00",
+            "name": "The Clash of Thorns Set",
+            "manifestUrl": "/bundles/clash-of-thorns/manifest.json",
+            "sku": "DCE-04101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/clash-of-thorns.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Clash of Thorns Set"
+          }
+        ],
+        "accessTypes": { "04101": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04100",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/clash-of-thorns",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/clash-of-thorns-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/LjTBTn2WVVo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>The Dragon Armies of the evil Dragon Queen Takhisis are tearing through your homelands, and you’ve been called to fight! Now you can equip these armored dice to aid you in battle. Each is crafted from leather bands and armor plates with carefully etched interwoven bands.</p><p>•&nbsp;<strong>Critical Animation:</strong> As the battle sways in and out of your favor, you’ll conjure a Knight of Solamnia surrounded by white flowers or come face to face with the infamous Lord Soth, whose eyes burn red!<br/>•&nbsp;<strong>Ambient Animation:</strong> These dice glow with magic that will light your way to victory.<br/>•&nbsp;<strong>Unique Sounds:</strong> As your fate is decided, you’ll hear the clink of metal as the dice roll across your character sheet.</p><p>Ready to take the fight to Takhisis? A war awaits you in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/marketplace/adventures/dragonlance-shadow-of-the-dragon-queen-digital-pre?icid_medium=ddb&icid_source=marketplace&icid_campaign=dragonlance-dice&icid_content=dragonlance\">Dragonlance: Shadow of the Dragon Queen</a>.</p>"
+    },
+    {
+      "id": "042",
+      "familyId": "042",
+      "dateCreated": "2022-12-05T00:00:00",
+      "dateModified": "2023-01-06T17:13:58.4146015+00:00",
+      "name": "Yule Dice Set",
+      "description": "Wrapped in paper and draped with trinkets, The Yule Dice celebrate the end of one year and the start of the next. Happy Holidays!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04201",
+            "dateCreated": "2022-12-05T00:00:00",
+            "dateModified": "2023-01-06T17:13:58.414606+00:00",
+            "name": "Yule Dice Set",
+            "manifestUrl": "/bundles/yule/manifest.json",
+            "sku": "DCE-04201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/yule.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "Yule Dice Set"
+          }
+        ],
+        "accessTypes": { "04201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04200",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "043",
+      "familyId": "043",
+      "dateCreated": "2023-01-20T00:00:00",
+      "dateModified": "2023-03-28T17:12:36.3769156+00:00",
+      "name": "The Gilded Glitz Set",
+      "description": "Sleek, golden, angular: the perfect design to go with the perfect heist. Add some Glitz to your rolls!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04301",
+            "dateCreated": "2023-01-20T00:00:00",
+            "dateModified": "2023-03-28T17:12:36.3769168+00:00",
+            "name": "The Gilded Glitz Set",
+            "manifestUrl": "/bundles/gilded-glitz/manifest.json",
+            "sku": "DCE-04301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gilded-glitz.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gilded Glitz Set"
+          }
+        ],
+        "accessTypes": { "04301": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04300",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "044",
+      "familyId": "044",
+      "dateCreated": "2022-02-06T00:00:00",
+      "dateModified": "2023-03-28T17:11:04.765819+00:00",
+      "name": "The Golden Vault Set",
+      "description": "The Golden Vault has another mission for you, roll the dice to insert the key and see what they have in store for your crew!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04401",
+            "dateCreated": "2022-02-06T00:00:00",
+            "dateModified": "2023-03-28T17:11:04.7658231+00:00",
+            "name": "The Golden Vault Set",
+            "manifestUrl": "/bundles/golden-vault/manifest.json",
+            "sku": "DCE-04401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/golden-vault.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Golden Vault Set"
+          }
+        ],
+        "accessTypes": { "04401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04400",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/golden-vault",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/golden-vault-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>The Golden Vault, rumored to be associated with metallic dragons, is a secretive organization that handles delicate situations local authorities won’t touch. Through music boxes, they deliver missions to their operatives. Insert the key and see what they have in store! Remember to “Do good, no matter the cost.”</p><p>•&nbsp;<strong>Critical Animation:</strong> A great success will insert the key and reveal the surprise waiting inside.<br/>•&nbsp;<strong>Unique Sounds:</strong> This music box jingles as it rolls across the board. Winding the key also reveals a unique tune!</p><p>Think your Heist crew is ready? More missions await in <a style=\"color: rgba(51, 102, 255, 1);\" href=\"https://www.dndbeyond.com/sources/kftgv\">Keys from the Golden Vault</a>!</p>"
+    },
+    {
+      "id": "045",
+      "familyId": "045",
+      "dateCreated": "2023-03-22T00:00:00",
+      "dateModified": "2023-07-10T17:42:35.5667986+00:00",
+      "name": "The Gemstone Dice Pack",
+      "description": "Hewn from gems, these beautiful Gemstone dice glitter and glow as they roll across the table. Hopefully bringing good fortune to your rolls!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04501",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5667997+00:00",
+            "name": "Amethyst",
+            "manifestUrl": "/bundles/gemstone/amethyst/manifest.json",
+            "sku": "DCE-04501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-amethyst.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Amethyst"
+          },
+          {
+            "id": "04502",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668001+00:00",
+            "name": "Black Opal",
+            "manifestUrl": "/bundles/gemstone/black-opal/manifest.json",
+            "sku": "DCE-04502",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-black-opal.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Black Opal"
+          },
+          {
+            "id": "04503",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668002+00:00",
+            "name": "Diamond",
+            "manifestUrl": "/bundles/gemstone/diamond/manifest.json",
+            "sku": "DCE-04503",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-diamond.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Diamond"
+          },
+          {
+            "id": "04504",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668004+00:00",
+            "name": "Emerald",
+            "manifestUrl": "/bundles/gemstone/emerald/manifest.json",
+            "sku": "DCE-04504",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-emerald.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Emerald"
+          },
+          {
+            "id": "04505",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668006+00:00",
+            "name": "Ruby",
+            "manifestUrl": "/bundles/gemstone/ruby/manifest.json",
+            "sku": "DCE-04505",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-ruby.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Ruby"
+          },
+          {
+            "id": "04506",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668008+00:00",
+            "name": "Sapphire",
+            "manifestUrl": "/bundles/gemstone/sapphire/manifest.json",
+            "sku": "DCE-04506",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-sapphire.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Sapphire"
+          },
+          {
+            "id": "04507",
+            "dateCreated": "2023-03-22T00:00:00",
+            "dateModified": "2023-07-10T17:42:35.5668009+00:00",
+            "name": "Topaz",
+            "manifestUrl": "/bundles/gemstone/topaz/manifest.json",
+            "sku": "DCE-04507",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/gemstone-topaz.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Gemstone Dice Pack: Topaz"
+          }
+        ],
+        "accessTypes": {
+          "04501": 4,
+          "04502": 4,
+          "04503": 4,
+          "04504": 4,
+          "04505": 4,
+          "04506": 4,
+          "04507": 4
+        }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04500",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/gemstone",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/gemstone-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>The pack includes 7 digital dice sets cut from Amethyst, Black Opal, Diamond, Emerald, Ruby, Sapphire, and Topaz.</br>Save 50% by purchasing them all as a pack. Any individual set you purchase from the pack will apply a credit to the full pack if you choose to complete your collection in the future.</p>"
+    },
+    {
+      "id": "046",
+      "familyId": "046",
+      "dateCreated": "2022-03-22T00:00:00",
+      "dateModified": "2023-05-22T15:25:56.7973781+00:00",
+      "name": "The Themberchaud Dice Set",
+      "description": "Among the lava and ash awaits a colossal form of armoured scales. Can you survive the wrath of the Wyrmsmith of Gracklstugh?",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04601",
+            "dateCreated": "2022-03-22T00:00:00",
+            "dateModified": "2023-05-22T15:25:56.7973796+00:00",
+            "name": "The Themberchaud Dice Set",
+            "manifestUrl": "/bundles/themberchaud/manifest.json",
+            "sku": "DCE-04601",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/themberchaud.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Themberchaud Dice Set"
+          }
+        ],
+        "accessTypes": { "04601": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04600",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "047",
+      "familyId": "047",
+      "dateCreated": "2023-04-25T00:00:00",
+      "dateModified": "2023-04-25T14:43:18.2638399+00:00",
+      "name": "The Raw Amethyst Gemstone Dice",
+      "description": "Unearthed and thrown onto the battlefield, these Raw Amethyst Dice are ready to decide your fate!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04701",
+            "dateCreated": "2023-04-25T00:00:00",
+            "dateModified": "2023-04-25T14:43:18.2638431+00:00",
+            "name": "The Raw Amethyst Gemstone Dice",
+            "manifestUrl": "/bundles/raw-amethyst/manifest.json",
+            "sku": "DCE-04701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/raw-amethyst.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Raw Amethyst Gemstone Dice"
+          }
+        ],
+        "accessTypes": { "04701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04700",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "048",
+      "familyId": "048",
+      "dateCreated": "2023-05-22T00:00:00",
+      "dateModified": "2023-05-22T18:04:27.3175164+00:00",
+      "name": "The Prehistoric Gemstone Dice",
+      "description": "Formed in the dust at the start of the world, these dice existed with Giants and Dragons.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04801",
+            "dateCreated": "2023-05-22T00:00:00",
+            "dateModified": "2023-05-22T18:04:27.3175209+00:00",
+            "name": "The Prehistoric Gemstone Dice",
+            "manifestUrl": "/bundles/prehistoric-gemstone/manifest.json",
+            "sku": "DCE-04801",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/prehistoric-gemstone.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Prehistoric Gemstone Dice"
+          }
+        ],
+        "accessTypes": { "04801": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04800",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "049",
+      "familyId": "049",
+      "dateCreated": "2023-05-22T00:00:00",
+      "dateModified": "2023-05-22T18:09:19.2699449+00:00",
+      "name": "The Elder Flame Dice Set",
+      "description": "Roiling flames from deep below, resist the corruption of these Elder Flame dice!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "04901",
+            "dateCreated": "2023-05-22T00:00:00",
+            "dateModified": "2023-05-22T18:09:19.2699461+00:00",
+            "name": "The Elder Flame Dice Set",
+            "manifestUrl": "/bundles/elder-flame/manifest.json",
+            "sku": "DCE-04901",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/elder-flame.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Elder Flame Dice Set"
+          }
+        ],
+        "accessTypes": { "04901": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-04900",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "051",
+      "familyId": "051",
+      "dateCreated": "2023-06-07T00:00:00",
+      "dateModified": "2023-06-07T15:08:11.686715+00:00",
+      "name": "The Faction Dice Pack",
+      "description": "Many factions exist on the Sword Coast and beyond, who will you band together with to defeat the unknowable evil?",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05101",
+            "dateCreated": "2023-06-07T00:00:00",
+            "dateModified": "2023-06-07T15:08:11.6867187+00:00",
+            "name": "Emerald Enclave",
+            "manifestUrl": "/bundles/faction/emerald-enclave/manifest.json",
+            "sku": "DCE-05101",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/faction-emerald-enclave.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Faction Dice Pack: Emerald Enclave"
+          },
+          {
+            "id": "05102",
+            "dateCreated": "2023-06-07T00:00:00",
+            "dateModified": "2023-06-07T15:08:11.686719+00:00",
+            "name": "Gauntlet",
+            "manifestUrl": "/bundles/faction/gauntlet/manifest.json",
+            "sku": "DCE-05102",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/faction-gauntlet.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Faction Dice Pack: Gauntlet"
+          },
+          {
+            "id": "05103",
+            "dateCreated": "2023-06-07T00:00:00",
+            "dateModified": "2023-06-07T15:08:11.6867192+00:00",
+            "name": "Harpers",
+            "manifestUrl": "/bundles/faction/harpers/manifest.json",
+            "sku": "DCE-05103",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/faction-harpers.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Faction Dice Pack: Harpers"
+          },
+          {
+            "id": "05104",
+            "dateCreated": "2023-06-07T00:00:00",
+            "dateModified": "2023-06-07T15:08:11.6867194+00:00",
+            "name": "Lords Alliance",
+            "manifestUrl": "/bundles/faction/lords-alliance/manifest.json",
+            "sku": "DCE-05104",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/faction-lords-alliance.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Faction Dice Pack: Lords Alliance"
+          },
+          {
+            "id": "05105",
+            "dateCreated": "2023-06-07T00:00:00",
+            "dateModified": "2023-06-07T15:08:11.6867201+00:00",
+            "name": "Zhentarim",
+            "manifestUrl": "/bundles/faction/zhentarim/manifest.json",
+            "sku": "DCE-05105",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/faction-zhentarim.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Faction Dice Pack: Zhentarim"
+          }
+        ],
+        "accessTypes": {
+          "05101": 4,
+          "05102": 4,
+          "05103": 4,
+          "05104": 4,
+          "05105": 4
+        }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05100",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "052",
+      "familyId": "052",
+      "dateCreated": "2023-06-14T00:00:00",
+      "dateModified": "2023-11-07T19:29:31.192097+00:00",
+      "name": "The Owlbear Diceling Set",
+      "description": "Plastic turned Digital! See the Owlbear Diceling explode into life.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05201",
+            "dateCreated": "2023-06-14T00:00:00",
+            "dateModified": "2023-11-07T19:29:31.1920983+00:00",
+            "name": "The Owlbear Diceling Set",
+            "manifestUrl": "/bundles/owlbear/manifest.json",
+            "sku": "DCE-05201",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/owlbear.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Owlbear Diceling Set"
+          }
+        ],
+        "accessTypes": { "05201": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": true,
+      "sku": "DCE-05200",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/owlbear",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/owlbear-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VbzrZ3urv8Q\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><p>Roll for transformation! Here comes the mighty Owlbear, one of many of the monsters that populate the realms of Dungeons & Dragons, now brought to life in digital form!</p><p>•&nbsp;<strong>Critical Animation:</strong> See the Diceling transform into its true form as you critical, or crumble to pieces on a fail!<br/>•&nbsp;<strong>Removal Animation:</strong> See these dice collapse into parts as they tidy themselves off your sheet.<br/>•&nbsp;<strong>Unique Sounds:</strong> Hear them click and clack along the sheet, with some owlbear calls when the transformation happens!</p>"
+    },
+    {
+      "id": "053",
+      "familyId": "053",
+      "dateCreated": "2023-06-14T00:00:00",
+      "dateModified": "2023-06-14T18:57:29.9162383+00:00",
+      "name": "The Modron Dice Set",
+      "description": "Here to observe the rolls on your sheet, these Modron dice will ensure that your results embody order!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05301",
+            "dateCreated": "2023-06-14T00:00:00",
+            "dateModified": "2023-06-14T18:57:29.9162395+00:00",
+            "name": "The Modron Dice Set",
+            "manifestUrl": "/bundles/modron/manifest.json",
+            "sku": "DCE-05301",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/modron.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Modron Dice Set"
+          }
+        ],
+        "accessTypes": { "05301": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05300",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "054",
+      "familyId": "054",
+      "dateCreated": "2023-07-10T00:00:00",
+      "dateModified": "2023-07-10T17:42:41.7891166+00:00",
+      "name": "The Bigby's Hand Dice Set",
+      "description": "Use the power of Bigby's Hand to generate your fate!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05401",
+            "dateCreated": "2023-07-10T00:00:00",
+            "dateModified": "2023-07-10T17:42:41.7891177+00:00",
+            "name": "The Bigby's Hand Dice Set",
+            "manifestUrl": "/bundles/bigbys/manifest.json",
+            "sku": "DCE-05401",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/bigbys.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Bigby's Hand Dice Set"
+          }
+        ],
+        "accessTypes": { "05401": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05400",
+      "rarity": 0,
+      "marketplaceUrl": "/marketplace/digital-dice/bigbys",
+      "marketingAvatarUrl": "https://images.dndbeyond.com/dice/images/covers/bigbys-cover.png?width=272&height=356&fit=crop&quality=95&auto=webp",
+      "productBlurb": "<p>Use the power of Bigby's Hand to generate your fate! </p><p>•&nbsp;<strong>Critical Animation:</strong> See the hand toss the dice in celebration, or flick away a bad result!<br/>•&nbsp;<strong>Removal Animation:</strong> Bibgy's hand will come and clear the dice away after your rolls!<br/>•&nbsp;<strong>Ambient Animation:</strong> The faces of these dice glow with giant runes which morph into numbers as you roll.</p>"
+    },
+    {
+      "id": "055",
+      "familyId": "055",
+      "dateCreated": "2023-07-18T00:00:00",
+      "dateModified": "2023-07-18T13:26:14.9575902+00:00",
+      "name": "The Baldur's Gate 3 Set",
+      "description": "Gather your party before venturing forth with these Promotional Baldur's Gate 3 Dice!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05501",
+            "dateCreated": "2023-07-18T00:00:00",
+            "dateModified": "2023-07-18T13:26:14.9575934+00:00",
+            "name": "The Baldur's Gate 3 Set",
+            "manifestUrl": "/bundles/baldurs-gate/manifest.json",
+            "sku": "DCE-05501",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/baldurs-gate.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Baldur's Gate 3 Set"
+          }
+        ],
+        "accessTypes": { "05501": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05500",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "056",
+      "familyId": "056",
+      "dateCreated": "2023-08-15T00:00:00",
+      "dateModified": "2023-08-23T14:35:46.2691824+00:00",
+      "name": "The Dice of Many Things",
+      "description": "Roll your Fortune and see what the Dice decide with these dice inspired by the Deck of Many Things!",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05601",
+            "dateCreated": "2023-08-15T00:00:00",
+            "dateModified": "2023-08-23T14:35:46.2691858+00:00",
+            "name": "Cards",
+            "manifestUrl": "/bundles/dice-of-many-things/cards/manifest.json",
+            "sku": "DCE-05601",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/dice-of-many-things-cards.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Dice of Many Things: Cards"
+          },
+          {
+            "id": "05602",
+            "dateCreated": "2023-08-15T00:00:00",
+            "dateModified": "2023-08-23T14:35:46.2691863+00:00",
+            "name": "No Cards",
+            "manifestUrl": "/bundles/dice-of-many-things/no-cards/manifest.json",
+            "sku": "DCE-05602",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/dice-of-many-things-no-cards.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "The Dice of Many Things: No Cards"
+          }
+        ],
+        "accessTypes": { "05601": 4, "05602": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05600",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    },
+    {
+      "id": "057",
+      "familyId": "057",
+      "dateCreated": "2023-11-27T00:00:00",
+      "dateModified": "2023-11-27T20:38:56.8477948+00:00",
+      "name": "Red Dragon Dice",
+      "description": "Let the terrifying red dragon roll on to your character sheets with these amazing dice.",
+      "sets": {
+        "definitionData": [
+          {
+            "id": "05701",
+            "dateCreated": "2023-11-27T00:00:00",
+            "dateModified": "2023-11-27T20:38:56.847798+00:00",
+            "name": "Red Dragon Dice",
+            "manifestUrl": "/bundles/red-dragon/manifest.json",
+            "sku": "DCE-05701",
+            "avatarUrl": "https://images.dndbeyond.com/dice/images/avatars/red-dragon.png?width=113&height=113&fit=crop&quality=95&auto=webp",
+            "isReleased": true,
+            "minDiceVersion": "8.0.1",
+            "fullName": "Red Dragon Dice"
+          }
+        ],
+        "accessTypes": { "05701": 4 }
+      },
+      "isReleased": true,
+      "isFeatured": false,
+      "sku": "DCE-05700",
+      "rarity": 0,
+      "marketplaceUrl": null,
+      "marketingAvatarUrl": null,
+      "productBlurb": null
+    }
+  ]
+}
