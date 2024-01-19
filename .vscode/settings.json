@@ -3,5 +3,6 @@
         "getallfamilysets",
         "PLASMO",
         "plasmohq"
-    ]
+    ],
+    "editor.tabSize": 2
 }

@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "@plasmohq/storage": "^1.9.0",
+    "clsx": "^2.1.0",
     "date-fns": "^3.2.0",
+    "lucide-svelte": "^0.312.0",
     "plasmo": "0.84.0",
     "svelte": "^4.2.9",
-    "svelte-preprocess": "^5.1.3"
+    "svelte-preprocess": "^5.1.3",
+    "tailwind-merge": "^2.2.0",
+    "tailwind-variants": "^0.1.20"
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "4.1.1",
@@ -22,7 +26,10 @@
     "@types/node": "20.9.0",
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.15",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
     "prettier": "3.0.3",
+    "tailwindcss": "^3.4.1",
     "typescript": "5.2.2"
   },
   "manifest": {
@@ -32,7 +39,7 @@
     "permissions": [
       "storage",
       "declarativeNetRequest",
-      "activeTab",
+      "tabs",
       "webRequest",
       "unlimitedStorage"
     ]
