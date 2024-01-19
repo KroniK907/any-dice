@@ -1,4 +1,3 @@
-import { Storage } from '@plasmohq/storage';
 import type {
     DiceFamily,
     DiceSet,
@@ -7,20 +6,7 @@ import type {
     DiceUserResponse
 } from './interfaces';
 import { isToday } from 'date-fns';
-
-log.enabled = process.env.PLASMO_PUBLIC_LOG_ENABLED;
-
-const storage = new Storage({area: 'local'});
-
-function log(str, data={}, force=false) {
-    if (log.enabled || force) {
-        console.log('any-dice: ' + str, data);
-    }
-}
-
-function isDarkMode() {
-    return window.matchMedia('(prefers-color-scheme: dark)').matches;
-}
+import { log, storage } from 'lib/utils';
 
 function getDiceFamilies() {
     let url = 'https://dice-service.dndbeyond.com/dice/v1/getallfamilysets';

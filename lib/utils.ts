@@ -2,6 +2,7 @@ import { type ClassValue, clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
 import { cubicOut } from "svelte/easing";
 import type { TransitionConfig } from "svelte/transition";
+import { Storage } from "@plasmohq/storage";
 
 export function cn(...inputs: ClassValue[]) {
     return twMerge(clsx(inputs));
@@ -60,3 +61,12 @@ export const flyAndScale = (
         easing: cubicOut
     };
 };
+
+export function log(str, data={}, force=false){
+    let enabled = process.env.PLASMO_PUBLIC_LOG_ENABLED;
+    if (enabled || force) {
+        console.log('any-dice: ' + str, data);
+    }
+}
+
+export const storage = new Storage({area: 'local'});
