@@ -2,6 +2,7 @@
   import "~/style.css"
 
   import * as Tabs from "~/lib/components/ui/tabs/index"
+  import DiceCard from "~components/dice-card.svelte"
 </script>
 
 <div>
@@ -11,7 +12,9 @@
       <Tabs.Trigger value="dice">Select Dice</Tabs.Trigger>
       <Tabs.Trigger value="options">Options</Tabs.Trigger>
     </Tabs.List>
-    <Tabs.Content value="dice">This is for dice</Tabs.Content>
+    <Tabs.Content value="dice">
+      <DiceCard />
+    </Tabs.Content>
     <Tabs.Content value="options">this is for options</Tabs.Content>
   </Tabs.Root>
 </div>

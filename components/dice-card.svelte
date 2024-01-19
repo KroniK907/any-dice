@@ -5,3 +5,5 @@
   import * as Card from "~lib/components/ui/card/index"
   import * as Select from "~lib/components/ui/select/index"
 </script>
+
+<p>Testing the import</p>
