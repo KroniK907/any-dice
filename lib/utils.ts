@@ -69,4 +69,17 @@ export function log(str, data={}, force=false){
     }
 }
 
+export function reloadCharacterSheets() {
+    chrome.tabs.query(
+        { url: "https://www.dndbeyond.com/characters/*" },
+        (tabs) => {
+            if (tabs) {
+                for (let tab of tabs) {
+                chrome.tabs.reload(tab.id)
+                }
+            }
+        }
+    )
+}
+
 export const storage = new Storage({area: 'local'});
