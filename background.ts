@@ -43,7 +43,7 @@ function getDiceFamilies() {
 }
 
 async function initializeStorage() {
-    let storageInitialized = await storage.get('storageInitialized');
+    let storageInitialized: boolean = await storage.get('storageInitialized');
     if(storageInitialized === true) {
         let lastUpdate = await storage.get('lastUpdatedDiceFamilies');
         if(!isToday(lastUpdate)) {
@@ -106,7 +106,7 @@ async function storeDiceFamilies() {
 async function buildDiceUserConfig() {
     let selectedSet = await storage.get('selectedSet');
     if(selectedSet !== 'none' && selectedSet) {
-        let diceSet = await storage.get(selectedSet);
+        let diceSet: DiceSet = await storage.get(selectedSet);
         let settings: DiceUserSettings = {
             volume: await storage.get('settings_volume'),
             vibrationEnabled: await storage.get('settings_vibration'),
@@ -121,7 +121,7 @@ async function buildDiceUserConfig() {
             setId: diceSet.setId,
             settings: settings
         }
-        let response: DataUserResponse = {
+        let response: DiceUserResponse = {
             id: "",
             success: true,
             message: "",
@@ -132,16 +132,17 @@ async function buildDiceUserConfig() {
         let url = mime + JSON.stringify(response);
 
         await storage.set('redirectUrl', url);
+        updateRedirect(url);
     } else {
         await storage.set('redirectUrl', null)
+        updateRedirect(null);
     }
 }
 
-async function updateRedirect() {
-    let url = await storage.get('redirectUrl');
-
+async function updateRedirect(url: string) {
+    log('Updating Redirect: ', url)
     if(url) {
-        await chrome.declarativeNetRequest.updateDynamicRules({
+        chrome.declarativeNetRequest.updateDynamicRules({
             removeRuleIds: [1],
             addRules: [{
                 id: 1,
@@ -149,13 +150,14 @@ async function updateRedirect() {
                     urlFilter: "https://dice-service.dndbeyond.com/diceuserconfig/v1/get|"
                 },
                 action: {
+                    //@ts-ignore
                     type: "redirect",
                     redirect: { url: url }
                 }
             }]
         });
     } else {
-        await chrome.declarativeNetRequest.updateDynamicRules({
+        chrome.declarativeNetRequest.updateDynamicRules({
             removeRuleIds: [1]
         })
     }
@@ -163,12 +165,10 @@ async function updateRedirect() {
 
 initializeStorage();
 buildDiceUserConfig();
-updateRedirect();
 
 storage.watch({
     selectedSet: (c) => {
         buildDiceUserConfig();
-        updateRedirect();
         log('New Set Selected: ', c)
     }
 });
