@@ -1,9 +1,9 @@
 import { fontFamily } from "tailwindcss/defaultTheme";
 
 /** @type {import('tailwindcss').Config} */
-const config = {
+module.exports = {
 	darkMode: ["class"],
-	content: ["./src/**/*.{html,js,svelte,ts}"],
+	content: ["./**/*.{html,js,svelte,ts}"],
   safelist: ["dark"],
 	theme: {
 		container: {
@@ -61,4 +61,3 @@ const config = {
 	},
 };
 
-export default config;

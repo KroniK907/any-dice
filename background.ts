@@ -6,7 +6,7 @@ import type {
     DiceUserResponse
 } from './interfaces';
 import { isToday } from 'date-fns';
-import { log, storage } from 'lib/utils';
+import { log, storage } from '$lib/utils';
 
 function getDiceFamilies() {
     let url = 'https://dice-service.dndbeyond.com/dice/v1/getallfamilysets';
