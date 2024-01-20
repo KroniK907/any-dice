@@ -9,6 +9,6 @@
   export { className as class }
 </script>
 
-<div class={cn("p-6 pt-0", className)} {...$$restProps}>
+<div class={cn("px-4 py-2", className)} {...$$restProps}>
   <slot />
 </div>

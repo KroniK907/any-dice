@@ -11,7 +11,7 @@
 
 <div
   class={cn(
-    "rounded-lg border bg-card text-card-foreground shadow-sm",
+    "rounded-lg border-[1.5px] border-san-juan-950 bg-card text-card-foreground shadow-md",
     className
   )}
   {...$$restProps}>
