@@ -67,7 +67,6 @@ async function storeDiceFamilies() {
             sets: []
         };
         diceFamilies.push('diceFamily-' + diceFamily.familyId);
-        await storage.set('diceFamily-' + diceFamily.familyId, diceFamily);
 
         for(let set of familySet.sets.definitionData) {
             let diceSet: DiceSet = {
@@ -81,6 +80,7 @@ async function storeDiceFamilies() {
             diceFamily.sets.push('diceSet-' + diceSet.setId);
             await storage.set('diceSet-' + diceSet.setId, diceSet);
         }
+        await storage.set('diceFamily-' + diceFamily.familyId, diceFamily);
     }
 
     await storage.set('diceFamilies', diceFamilies);
