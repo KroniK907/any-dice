@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import DiceCardDetails from "~components/dice-card-details.svelte"
   import * as Accordion from "~lib/components/ui/accordion/index"
   import * as Avatar from "~lib/components/ui/avatar/index"
