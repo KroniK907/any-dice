@@ -5,7 +5,7 @@ interface DiceFamily {
     marketplaceUrl: string;
     marketingAvatarUrl: string;
     productBlurb: string;
-    sets: Array<string>;
+    sets: {[key:string]:DiceSet};
 }
 
 interface DiceSet {

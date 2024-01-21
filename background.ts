@@ -8,7 +8,7 @@ import type {
 import { isToday } from 'date-fns';
 import { log, storage } from '$lib/utils';
 
-function getDiceFamilies() {
+async function getDiceFamilies() {
     let url = 'https://dice-service.dndbeyond.com/dice/v1/getallfamilysets';
     let data = fetch(url)
         .then((response) => {
@@ -30,7 +30,7 @@ function getDiceFamilies() {
 
 async function initializeStorage() {
     let storageInitialized: boolean = await storage.get('storageInitialized');
-    if(storageInitialized === true) {
+    if(storageInitialized) {
         let lastUpdate = await storage.get('lastUpdatedDiceFamilies');
         if(!isToday(lastUpdate)) {
             storeDiceFamilies();
@@ -52,9 +52,10 @@ async function initializeStorage() {
 
 async function storeDiceFamilies() {
     let getFamilies = await getDiceFamilies();
-    await storage.set('allFamilySets', getFamilies);
+    await storage.set('allFamilySets', getFamilies)
 
-    let diceFamilies = [];
+    let diceFamilies:{[key:string]:DiceFamily} = {}
+    let diceSets:{[key:string]:DiceSet} = {}
 
     for(let familySet of getFamilies) {
         let diceFamily: DiceFamily = {
@@ -64,10 +65,8 @@ async function storeDiceFamilies() {
             marketplaceUrl: familySet.marketplaceUrl,
             marketingAvatarUrl: familySet.marketingAvatarUrl,
             productBlurb: familySet.productBlurb,
-            sets: []
+            sets: {}
         };
-        diceFamilies.push('diceFamily-' + diceFamily.familyId);
-
         for(let set of familySet.sets.definitionData) {
             let diceSet: DiceSet = {
                 setId: set.id,
@@ -77,22 +76,24 @@ async function storeDiceFamilies() {
                 fullName: set.fullName,
                 familyId: familySet.familyId
             };
-            diceFamily.sets.push('diceSet-' + diceSet.setId);
-            await storage.set('diceSet-' + diceSet.setId, diceSet);
+            diceFamily.sets[set.id] = diceSet
+            diceSets[set.id] = diceSet
         }
-        await storage.set('diceFamily-' + diceFamily.familyId, diceFamily);
+        diceFamilies[familySet.familyId] = diceFamily
     }
 
     await storage.set('diceFamilies', diceFamilies);
+    await storage.set('diceSets', diceSets);
 
     let date = new Date();
     await storage.set('lastUpdatedDiceFamilies', date.toISOString());
 }
 
 async function buildDiceUserConfig() {
-    let selectedSet = await storage.get('selectedSet');
+    let selectedSet:string = await storage.get('selectedSet');
     if(selectedSet !== 'none' && selectedSet) {
-        let diceSet: DiceSet = await storage.get(selectedSet);
+        let diceSets:{[key:string]:DiceSet} = await storage.get('diceSets');
+        let diceSet:DiceSet = diceSets[selectedSet]
         let settings: DiceUserSettings = {
             volume: await storage.get('settings_volume'),
             vibrationEnabled: await storage.get('settings_vibration'),
