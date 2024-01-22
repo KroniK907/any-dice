@@ -5,6 +5,7 @@
 
   import * as Tabs from "~/lib/components/ui/tabs/index"
   import DiceCard from "~components/dice-card.svelte"
+  import Options from "~components/options.svelte"
   import type { DiceFamily } from "~interfaces"
   import { log, storage } from "~lib/utils"
 
@@ -43,6 +44,8 @@
         {/each}
       </div>
     </Tabs.Content>
-    <Tabs.Content value="options">this is for options</Tabs.Content>
+    <Tabs.Content value="options">
+      <Options />
+    </Tabs.Content>
   </Tabs.Root>
 </div>
